@@ -430,5 +430,13 @@
         "expiry": "2/20",
         "price": "0.1",
         "raw_text": "10X POTENTIAL   $EGY 6 Call 2/20 avg .10"
+    },
+    {
+        "ticker": "EGY",
+        "strike": "6",
+        "type": "CALL",
+        "expiry": "2/20",
+        "price": "0.1",
+        "raw_text": "SWING TRADE    $EGY 6 Call 2/20 avg .10"
     }
 ]
