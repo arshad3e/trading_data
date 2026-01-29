@@ -406,5 +406,13 @@
         "expiry": "2/20",
         "price": "0.15",
         "raw_text": "SHORT SQUEEZE   $KOS 2 Call 2/20 avg .15"
+    },
+    {
+        "ticker": "EGY",
+        "strike": "6",
+        "type": "CALL",
+        "expiry": "2/20",
+        "price": "0.1",
+        "raw_text": "SHORT SQUEEZE   $EGY 6 Call 2/20 avg .10"
     }
 ]
