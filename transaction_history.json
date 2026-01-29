@@ -152,5 +152,27 @@
         "fill_price": 0.0,
         "message": "Position already exists for SPCE  260206C00003500",
         "timestamp": "2026-01-29 01:07:04"
+    },
+    {
+        "ticker": "ABR",
+        "strike": 8.0,
+        "type": "C",
+        "expiry": "20260130",
+        "alert_price": 0.08,
+        "status": "CANCELLED",
+        "fill_price": 0.0,
+        "message": "Order cancelled/rejected. Reason: ",
+        "timestamp": "2026-01-29 01:07:20"
+    },
+    {
+        "ticker": "ABR",
+        "strike": 8.0,
+        "type": "C",
+        "expiry": "20260130",
+        "alert_price": 0.1,
+        "status": "CANCELLED",
+        "fill_price": 0.0,
+        "message": "Order cancelled/rejected. Reason: ",
+        "timestamp": "2026-01-29 01:07:35"
     }
 ]
