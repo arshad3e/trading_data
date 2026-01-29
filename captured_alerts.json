@@ -306,5 +306,37 @@
         "expiry": "1/30",
         "price": "25",
         "raw_text": "FINAL TRADE IDEA    $RILY 10 CALL 1/30 @ .25"
+    },
+    {
+        "ticker": "RILY",
+        "strike": "10",
+        "type": "CALL",
+        "expiry": "1/30",
+        "price": "0.24",
+        "raw_text": "Short Squeeze   $RILY 10 Call 1/30 at 0.24"
+    },
+    {
+        "ticker": "RILY",
+        "strike": "10",
+        "type": "CALL",
+        "expiry": "1/30",
+        "price": "24",
+        "raw_text": "POTENTIAL 2x IDEA   $RILY 10 CALL 1/30 @ .24"
+    },
+    {
+        "ticker": "RILY",
+        "strike": "10",
+        "type": "CALL",
+        "expiry": "1/30",
+        "price": "25",
+        "raw_text": "$RILY SHORT SQUEEZE ROUND 2    $RILY 10 CALL 1/30 @ .25"
+    },
+    {
+        "ticker": "RILY",
+        "strike": "10",
+        "type": "CALL",
+        "expiry": "1/30",
+        "price": "25",
+        "raw_text": "FINAL TRADE IDEA    $RILY 10 CALL 1/30 @ .25"
     }
 ]
