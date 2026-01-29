@@ -338,5 +338,85 @@
         "expiry": "1/30",
         "price": "25",
         "raw_text": "FINAL TRADE IDEA    $RILY 10 CALL 1/30 @ .25"
+    },
+    {
+        "ticker": "RILY",
+        "strike": "10",
+        "type": "CALL",
+        "expiry": "1/30",
+        "price": "0.24",
+        "raw_text": "Short Squeeze   $RILY 10 Call 1/30 at 0.24"
+    },
+    {
+        "ticker": "RILY",
+        "strike": "10",
+        "type": "CALL",
+        "expiry": "1/30",
+        "price": "0.24",
+        "raw_text": "POTENTIAL 2x IDEA   $RILY 10 CALL 1/30 @ .24"
+    },
+    {
+        "ticker": "RILY",
+        "strike": "10",
+        "type": "CALL",
+        "expiry": "1/30",
+        "price": "0.25",
+        "raw_text": "$RILY SHORT SQUEEZE ROUND 2    $RILY 10 CALL 1/30 @ .25"
+    },
+    {
+        "ticker": "RILY",
+        "strike": "10",
+        "type": "CALL",
+        "expiry": "1/30",
+        "price": "0.25",
+        "raw_text": "FINAL TRADE IDEA    $RILY 10 CALL 1/30 @ .25"
+    },
+    {
+        "ticker": "HPQ",
+        "strike": "20",
+        "type": "CALL",
+        "expiry": "1/30",
+        "price": "0.16",
+        "raw_text": "HIGH CONFIDENCE  $HPQ 20 Call 1/30 at 0.16"
+    },
+    {
+        "ticker": "NDAQ",
+        "strike": "110",
+        "type": "CALL",
+        "expiry": "2/20",
+        "price": "0.25",
+        "raw_text": "HIGH CONFIDENCE   $NDAQ 110 Call 2/20 avg .25"
+    },
+    {
+        "ticker": "ADAM",
+        "strike": "10",
+        "type": "CALL",
+        "expiry": "2/20",
+        "price": "0.15",
+        "raw_text": "SHORT SQUEEZE   $ADAM 10 Call 2/20 avg .15"
+    },
+    {
+        "ticker": "PLUG",
+        "strike": "3",
+        "type": "CALL",
+        "expiry": "2/6",
+        "price": "0.07",
+        "raw_text": "SHORT SQUEEZE POTENTIAL   $PLUG $3 CALL 2/6 @ .07"
+    },
+    {
+        "ticker": "PLUG",
+        "strike": "3",
+        "type": "CALL",
+        "expiry": "2/6",
+        "price": "0.07",
+        "raw_text": "10X POTENTIAL   $PLUG 3 Call 2/6 at 0.07"
+    },
+    {
+        "ticker": "PLUG",
+        "strike": "3",
+        "type": "CALL",
+        "expiry": "2/6",
+        "price": "0.07",
+        "raw_text": "SHORT SQUEEZE   $PLUG 3 Call 2/6 at 0.07"
     }
 ]
