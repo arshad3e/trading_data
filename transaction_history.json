@@ -218,5 +218,16 @@
         "fill_price": 0.0,
         "message": "Position already exists for PCG   260130C00016000",
         "timestamp": "2026-01-29 01:08:08"
+    },
+    {
+        "ticker": "KOS",
+        "strike": 2.0,
+        "type": "C",
+        "expiry": "20260220",
+        "alert_price": 0.15,
+        "status": "FILLED",
+        "fill_price": 0.13,
+        "message": "Filled @ 0.13. Sell Order placed @ 0.14",
+        "timestamp": "2026-01-29 09:44:08"
     }
 ]
