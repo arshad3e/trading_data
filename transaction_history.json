@@ -262,5 +262,29 @@
         "fill_price": 0.19,
         "message": "Filled @ 0.19. Sell Order placed @ 0.2",
         "timestamp": "2026-01-29 10:18:52"
+    },
+    {
+        "ticker": "RILY",
+        "strike": 10.0,
+        "type": "C",
+        "expiry": "20260130",
+        "alert_price": 0.24,
+        "status": "FILLED",
+        "fill_price": 0.12,
+        "buy_commission": 1.04875,
+        "message": "Filled @ 0.12 (Comm $1.04875). Sell Order placed @ 0.15",
+        "timestamp": "2026-01-29 10:29:14"
+    },
+    {
+        "ticker": "RILY",
+        "strike": 10.0,
+        "type": "C",
+        "expiry": "20260130",
+        "alert_price": 0.25,
+        "status": "SKIPPED",
+        "fill_price": 0.0,
+        "buy_commission": 0.0,
+        "message": "Position already exists for RILY  260130C00010000",
+        "timestamp": "2026-01-29 10:29:14"
     }
 ]
