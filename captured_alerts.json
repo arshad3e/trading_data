@@ -318,5 +318,21 @@
         "expiry": "2/20",
         "price": "0.15",
         "raw_text": "SHORT SQUEEZE   $KOS 2 Call 2/20 avg .15"
+    },
+    {
+        "ticker": "KOS",
+        "strike": "2",
+        "type": "CALL",
+        "expiry": "2/20",
+        "price": "0.15",
+        "raw_text": "HIGH CONFIDENCE   $KOS 2 Call 2/20 avg .15"
+    },
+    {
+        "ticker": "KOS",
+        "strike": "2",
+        "type": "CALL",
+        "expiry": "2/20",
+        "price": "0.15",
+        "raw_text": "10X POTENTIAL   $KOS 2 Call 2/20 avg .15"
     }
 ]
