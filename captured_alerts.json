@@ -310,5 +310,13 @@
         "expiry": "1/30",
         "price": "0.25",
         "raw_text": "FINAL TRADE IDEA    $RILY 10 CALL 1/30 @ .25"
+    },
+    {
+        "ticker": "KOS",
+        "strike": "2",
+        "type": "CALL",
+        "expiry": "2/20",
+        "price": "0.15",
+        "raw_text": "SHORT SQUEEZE   $KOS 2 Call 2/20 avg .15"
     }
 ]
