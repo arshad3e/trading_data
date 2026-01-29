@@ -510,5 +510,13 @@
         "expiry": "2/6",
         "price": "0.16",
         "raw_text": "$PCG 15.5 CALL 2/6 @ .16"
+    },
+    {
+        "ticker": "PCG",
+        "strike": "15.5",
+        "type": "CALL",
+        "expiry": "2/6",
+        "price": "0.16",
+        "raw_text": "$PCG 15.5 CALL 2/6 @ .16  (next week)"
     }
 ]

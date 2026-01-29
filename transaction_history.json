@@ -251,5 +251,16 @@
         "fill_price": 0.07,
         "message": "Filled @ 0.07. Sell Order placed @ 0.08",
         "timestamp": "2026-01-29 10:04:41"
+    },
+    {
+        "ticker": "PCG",
+        "strike": 15.5,
+        "type": "C",
+        "expiry": "20260206",
+        "alert_price": 0.16,
+        "status": "FILLED",
+        "fill_price": 0.19,
+        "message": "Filled @ 0.19. Sell Order placed @ 0.2",
+        "timestamp": "2026-01-29 10:18:52"
     }
 ]
