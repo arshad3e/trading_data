@@ -1,0 +1,189 @@
+[
+    {
+        "ticker": "SPCE",
+        "strike": 3.5,
+        "type": "C",
+        "expiry": "20260206",
+        "alert_price": 0.1,
+        "status": "SKIPPED",
+        "fill_price": 0.0,
+        "message": "Position already exists for SPCE  260206C00003500",
+        "timestamp": "2026-01-28 21:53:54"
+    },
+    {
+        "ticker": "SPCE",
+        "strike": 3.5,
+        "type": "C",
+        "expiry": "20260206",
+        "alert_price": 0.0,
+        "status": "SKIPPED",
+        "fill_price": 0.0,
+        "message": "Position already exists for SPCE  260206C00003500",
+        "timestamp": "2026-01-28 22:44:56"
+    },
+    {
+        "ticker": "RILY",
+        "strike": 10.0,
+        "type": "C",
+        "expiry": "20260130",
+        "alert_price": 0.24,
+        "status": "FAILED_CAP_REACHED",
+        "fill_price": 0.0,
+        "message": "Price rose to $0.32, exceeding cap $0.3. Cancelling.",
+        "timestamp": "2026-01-28 23:08:53"
+    },
+    {
+        "ticker": "RILY",
+        "strike": 10.0,
+        "type": "C",
+        "expiry": "20260130",
+        "alert_price": 24.0,
+        "status": "SKIPPED",
+        "fill_price": 0.0,
+        "message": "Insufficient funds. Need $2400.0, have $127.93",
+        "timestamp": "2026-01-28 23:08:59"
+    },
+    {
+        "ticker": "RILY",
+        "strike": 10.0,
+        "type": "C",
+        "expiry": "20260130",
+        "alert_price": 25.0,
+        "status": "SKIPPED",
+        "fill_price": 0.0,
+        "message": "Insufficient funds. Need $2500.0, have $127.93",
+        "timestamp": "2026-01-28 23:08:59"
+    },
+    {
+        "ticker": "HPQ",
+        "strike": 20.0,
+        "type": "C",
+        "expiry": "20260130",
+        "alert_price": 0.16,
+        "status": "FAILED_CAP_REACHED",
+        "fill_price": 0.0,
+        "message": "Price rose to $0.21, exceeding cap $0.2. Cancelling.",
+        "timestamp": "2026-01-28 23:17:30"
+    },
+    {
+        "ticker": "HPQ",
+        "strike": 20.0,
+        "type": "C",
+        "expiry": "20260130",
+        "alert_price": 15.0,
+        "status": "SKIPPED",
+        "fill_price": 0.0,
+        "message": "Insufficient funds. Need $1500.0, have $127.93",
+        "timestamp": "2026-01-28 23:17:31"
+    },
+    {
+        "ticker": "HPQ",
+        "strike": 20.0,
+        "type": "C",
+        "expiry": "20260130",
+        "alert_price": 0.15,
+        "status": "FAILED_CAP_REACHED",
+        "fill_price": 0.0,
+        "message": "Price rose to $0.2, exceeding cap $0.19. Cancelling.",
+        "timestamp": "2026-01-28 23:18:46"
+    },
+    {
+        "ticker": "PLUG",
+        "strike": 3.0,
+        "type": "C",
+        "expiry": "20260206",
+        "alert_price": 7.0,
+        "status": "SKIPPED",
+        "fill_price": 0.0,
+        "message": "Position already exists for PLUG  260206C00003000",
+        "timestamp": "2026-01-28 23:18:52"
+    },
+    {
+        "ticker": "PLUG",
+        "strike": 3.0,
+        "type": "C",
+        "expiry": "20260206",
+        "alert_price": 0.07,
+        "status": "SKIPPED",
+        "fill_price": 0.0,
+        "message": "Position already exists for PLUG  260206C00003000",
+        "timestamp": "2026-01-28 23:18:53"
+    },
+    {
+        "ticker": "OKLO",
+        "strike": 95.0,
+        "type": "C",
+        "expiry": "20260130",
+        "alert_price": 1.15,
+        "status": "CANCELLED",
+        "fill_price": 0.0,
+        "message": "Order cancelled/rejected. Reason: ",
+        "timestamp": "2026-01-28 23:19:08"
+    },
+    {
+        "ticker": "ACHR",
+        "strike": 8.5,
+        "type": "C",
+        "expiry": "20260130",
+        "alert_price": 0.15,
+        "status": "FAILED_CAP_REACHED",
+        "fill_price": 0.0,
+        "message": "Price rose to $0.2, exceeding cap $0.19. Cancelling.",
+        "timestamp": "2026-01-28 23:20:24"
+    },
+    {
+        "ticker": "SPCE",
+        "strike": 3.5,
+        "type": "C",
+        "expiry": "20260206",
+        "alert_price": 8.0,
+        "status": "SKIPPED",
+        "fill_price": 0.0,
+        "message": "Position already exists for SPCE  260206C00003500",
+        "timestamp": "2026-01-28 23:20:25"
+    },
+    {
+        "ticker": "ABR",
+        "strike": 8.0,
+        "type": "C",
+        "expiry": "20260130",
+        "alert_price": 8.0,
+        "status": "SKIPPED",
+        "fill_price": 0.0,
+        "message": "Insufficient funds. Need $800.0, have $127.93",
+        "timestamp": "2026-01-28 23:20:25"
+    },
+    {
+        "ticker": "ABR",
+        "strike": 8.0,
+        "type": "C",
+        "expiry": "20260130",
+        "alert_price": 10.0,
+        "status": "SKIPPED",
+        "fill_price": 0.0,
+        "message": "Insufficient funds. Need $1000.0, have $127.93",
+        "timestamp": "2026-01-28 23:20:26"
+    },
+    {
+        "ticker": "LUMN",
+        "strike": 10.0,
+        "type": "C",
+        "expiry": "20260130",
+        "alert_price": 0.09,
+        "status": "SKIPPED",
+        "fill_price": 0.0,
+        "message": "Position already exists for LUMN  260130C00010000",
+        "timestamp": "2026-01-28 23:20:27"
+    },
+    {
+        "ticker": "LUMN",
+        "strike": 10.0,
+        "type": "C",
+        "expiry": "20260130",
+        "alert_price": 9.0,
+        "status": "SKIPPED",
+        "fill_price": 0.0,
+        "message": "Position already exists for LUMN  260130C00010000",
+        "timestamp": "2026-01-28 23:20:27"
+    }
+]

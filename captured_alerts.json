@@ -1,0 +1,310 @@
+[
+    {
+        "format": "Full",
+        "ticker": "SPCE",
+        "strike": "3.5",
+        "type": "CALL",
+        "expiry": "2/6",
+        "price": "0.10",
+        "raw_text": "Short Squeeze Idea   $SPCE 3.5 Call 2/6 at 0.10"
+    },
+    {
+        "format": "Full",
+        "ticker": "SPCE",
+        "strike": "3.5",
+        "type": "CALL",
+        "expiry": "2/6",
+        "price": "0.10",
+        "raw_text": "$SPCE 3.5 Call 2/6 at 0.10"
+    },
+    {
+        "format": "Full",
+        "ticker": "SPCE",
+        "strike": "3.5",
+        "type": "CALL",
+        "expiry": "2/6",
+        "price": "0",
+        "raw_text": "Short Squeeze Idea   $SPCE 3.5 Call 2/6 at 0.10"
+    },
+    {
+        "format": "Full",
+        "ticker": "SPCE",
+        "strike": "3.5",
+        "type": "CALL",
+        "expiry": "2/6",
+        "price": "0.10",
+        "raw_text": "Short Squeeze Idea   $SPCE 3.5 Call 2/6 at 0.10"
+    },
+    {
+        "ticker": "RILY",
+        "strike": "10",
+        "type": "CALL",
+        "expiry": "1/30",
+        "price": "0.24",
+        "raw_text": "Short Squeeze   $RILY 10 Call 1/30 at 0.24"
+    },
+    {
+        "ticker": "RILY",
+        "strike": "10",
+        "type": "CALL",
+        "expiry": "1/30",
+        "price": "0.24",
+        "raw_text": "$RILY 10 Call 1/30 at 0.24"
+    },
+    {
+        "ticker": "RILY",
+        "strike": "10",
+        "type": "CALL",
+        "expiry": "1/30",
+        "price": "24",
+        "raw_text": "POTENTIAL 2x IDEA   $RILY 10 CALL 1/30 @ .24"
+    },
+    {
+        "ticker": "RILY",
+        "strike": "10",
+        "type": "CALL",
+        "expiry": "1/30",
+        "price": "24",
+        "raw_text": "$RILY 10 CALL 1/30 @ .24"
+    },
+    {
+        "ticker": "RILY",
+        "strike": "10",
+        "type": "CALL",
+        "expiry": "1/30",
+        "price": "25",
+        "raw_text": "$RILY SHORT SQUEEZE ROUND 2    $RILY 10 CALL 1/30 @ .25"
+    },
+    {
+        "ticker": "RILY",
+        "strike": "10",
+        "type": "CALL",
+        "expiry": "1/30",
+        "price": "25",
+        "raw_text": "FINAL TRADE IDEA    $RILY 10 CALL 1/30 @ .25"
+    },
+    {
+        "ticker": "RILY",
+        "strike": "10",
+        "type": "CALL",
+        "expiry": "1/30",
+        "price": "25",
+        "raw_text": "$RILY 10 CALL 1/30 @ .25"
+    },
+    {
+        "ticker": "RILY",
+        "strike": "10",
+        "type": "CALL",
+        "expiry": "1/30",
+        "price": "0.24",
+        "raw_text": "Short Squeeze   $RILY 10 Call 1/30 at 0.24"
+    },
+    {
+        "ticker": "RILY",
+        "strike": "10",
+        "type": "CALL",
+        "expiry": "1/30",
+        "price": "24",
+        "raw_text": "POTENTIAL 2x IDEA   $RILY 10 CALL 1/30 @ .24"
+    },
+    {
+        "ticker": "RILY",
+        "strike": "10",
+        "type": "CALL",
+        "expiry": "1/30",
+        "price": "25",
+        "raw_text": "$RILY SHORT SQUEEZE ROUND 2    $RILY 10 CALL 1/30 @ .25"
+    },
+    {
+        "ticker": "RILY",
+        "strike": "10",
+        "type": "CALL",
+        "expiry": "1/30",
+        "price": "25",
+        "raw_text": "FINAL TRADE IDEA    $RILY 10 CALL 1/30 @ .25"
+    },
+    {
+        "ticker": "HPQ",
+        "strike": "20",
+        "type": "CALL",
+        "expiry": "1/30",
+        "price": "0.16",
+        "raw_text": "HIGH CONFIDENCE  $HPQ 20 Call 1/30 at 0.16"
+    },
+    {
+        "ticker": "HPQ",
+        "strike": "20",
+        "type": "CALL",
+        "expiry": "1/30",
+        "price": "15",
+        "raw_text": "$HPQ 20 CALL 1/30 @ .15"
+    },
+    {
+        "ticker": "HPQ",
+        "strike": "20",
+        "type": "CALL",
+        "expiry": "1/30",
+        "price": "0.15",
+        "raw_text": "$HPQ 20 Call 1/30 at 0.15"
+    },
+    {
+        "ticker": "PLUG",
+        "strike": "3",
+        "type": "CALL",
+        "expiry": "2/6",
+        "price": "07",
+        "raw_text": "SHORT SQUEEZE POTENTIAL   $PLUG $3 CALL 2/6 @ .07"
+    },
+    {
+        "ticker": "PLUG",
+        "strike": "3",
+        "type": "CALL",
+        "expiry": "2/6",
+        "price": "0.07",
+        "raw_text": "10X POTENTIAL   $PLUG 3 Call 2/6 at 0.07"
+    },
+    {
+        "ticker": "PLUG",
+        "strike": "3",
+        "type": "CALL",
+        "expiry": "2/6",
+        "price": "07",
+        "raw_text": "$PLUG $3 CALL 2/6 @ .07  (next week)"
+    },
+    {
+        "ticker": "PLUG",
+        "strike": "3",
+        "type": "CALL",
+        "expiry": "2/6",
+        "price": "0.07",
+        "raw_text": "SHORT SQUEEZE   $PLUG 3 Call 2/6 at 0.07"
+    },
+    {
+        "ticker": "PLUG",
+        "strike": "3",
+        "type": "CALL",
+        "expiry": "2/6",
+        "price": "0.07",
+        "raw_text": "$PLUG 3 Call 2/6 at 0.07"
+    },
+    {
+        "ticker": "OKLO",
+        "strike": "95",
+        "type": "CALL",
+        "expiry": "01/30",
+        "price": "1.15",
+        "raw_text": "$OKLO 95c 01/30 at 1.15  10 Contracts | Challenge"
+    },
+    {
+        "ticker": "SPCE",
+        "strike": "3.5",
+        "type": "CALL",
+        "expiry": "2/6",
+        "price": "0.10",
+        "raw_text": "Short Squeeze Idea   $SPCE 3.5 Call 2/6 at 0.10"
+    },
+    {
+        "ticker": "ACHR",
+        "strike": "8.5",
+        "type": "CALL",
+        "expiry": "1/30",
+        "price": "0.15",
+        "raw_text": "HIGH CONFIDENCE   $ACHR 8.5 Call 1/30 at 0.15"
+    },
+    {
+        "ticker": "ACHR",
+        "strike": "8.5",
+        "type": "CALL",
+        "expiry": "1/30",
+        "price": "0.15",
+        "raw_text": "$ACHR 8.5 Call 1/30 at 0.15"
+    },
+    {
+        "ticker": "SPCE",
+        "strike": "3.5",
+        "type": "CALL",
+        "expiry": "2/6",
+        "price": "08",
+        "raw_text": "$SPCE 3.5 CALL 2/6 @ .08"
+    },
+    {
+        "ticker": "ABR",
+        "strike": "8",
+        "type": "CALL",
+        "expiry": "1/30",
+        "price": "08",
+        "raw_text": "$ABR 8 CALL 1/30 @ .08"
+    },
+    {
+        "ticker": "ABR",
+        "strike": "8",
+        "type": "CALL",
+        "expiry": "1/30",
+        "price": "10",
+        "raw_text": "$ABR 8 CALL 1/30 @ .10"
+    },
+    {
+        "ticker": "LUMN",
+        "strike": "10",
+        "type": "CALL",
+        "expiry": "1/30",
+        "price": "0.09",
+        "raw_text": "SHORT SQUEEZE   $LUMN 10 Call 1/30 at 0.09"
+    },
+    {
+        "ticker": "LUMN",
+        "strike": "10",
+        "type": "CALL",
+        "expiry": "1/30",
+        "price": "09",
+        "raw_text": "SHORT SQUEEZE POTENTIAL   $LUMN 10 CALL 1/30 @ .09"
+    },
+    {
+        "ticker": "LUMN",
+        "strike": "10",
+        "type": "CALL",
+        "expiry": "1/30",
+        "price": "09",
+        "raw_text": "$LUMN 10 CALL 1/30 @ .09"
+    },
+    {
+        "ticker": "LUMN",
+        "strike": "10",
+        "type": "CALL",
+        "expiry": "1/30",
+        "price": "0.09",
+        "raw_text": "$LUMN 10 Call 1/30 at 0.09"
+    },
+    {
+        "ticker": "RILY",
+        "strike": "10",
+        "type": "CALL",
+        "expiry": "1/30",
+        "price": "0.24",
+        "raw_text": "Short Squeeze   $RILY 10 Call 1/30 at 0.24"
+    },
+    {
+        "ticker": "RILY",
+        "strike": "10",
+        "type": "CALL",
+        "expiry": "1/30",
+        "price": "24",
+        "raw_text": "POTENTIAL 2x IDEA   $RILY 10 CALL 1/30 @ .24"
+    },
+    {
+        "ticker": "RILY",
+        "strike": "10",
+        "type": "CALL",
+        "expiry": "1/30",
+        "price": "25",
+        "raw_text": "$RILY SHORT SQUEEZE ROUND 2    $RILY 10 CALL 1/30 @ .25"
+    },
+    {
+        "ticker": "RILY",
+        "strike": "10",
+        "type": "CALL",
+        "expiry": "1/30",
+        "price": "25",
+        "raw_text": "FINAL TRADE IDEA    $RILY 10 CALL 1/30 @ .25"
+    }
+]
