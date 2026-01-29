@@ -9,5 +9,16 @@
         "fill_price": 0.0,
         "message": "Order cancelled/rejected. Reason: ",
         "timestamp": "2026-01-29 01:04:32"
+    },
+    {
+        "ticker": "RILY",
+        "strike": 10.0,
+        "type": "C",
+        "expiry": "20260130",
+        "alert_price": 0.25,
+        "status": "CANCELLED",
+        "fill_price": 0.0,
+        "message": "Order cancelled/rejected. Reason: ",
+        "timestamp": "2026-01-29 01:04:48"
     }
 ]

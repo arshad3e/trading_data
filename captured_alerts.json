@@ -166,5 +166,109 @@
         "expiry": "2/6",
         "price": "0.1",
         "raw_text": "$SPCE 3.5 Call 2/6 at 0.10"
+    },
+    {
+        "ticker": "AGNC",
+        "strike": "12",
+        "type": "CALL",
+        "expiry": "1/30",
+        "price": "0.14",
+        "raw_text": "SHORT SQUEEZE   $AGNC 12 Call 1/30 avg .14"
+    },
+    {
+        "ticker": "ACHR",
+        "strike": "8.5",
+        "type": "CALL",
+        "expiry": "1/30",
+        "price": "0.15",
+        "raw_text": "HIGH CONFIDENCE   $ACHR 8.5 Call 1/30 at 0.15"
+    },
+    {
+        "ticker": "ACHR",
+        "strike": "8.5",
+        "type": "CALL",
+        "expiry": "1/30",
+        "price": "0.15",
+        "raw_text": "$ACHR 8.5 Call 1/30 at 0.15"
+    },
+    {
+        "ticker": "MPW",
+        "strike": "5.5",
+        "type": "CALL",
+        "expiry": "2/06",
+        "price": "0.05",
+        "raw_text": "NEXT WEEK CONTRACTS   $MPW 5.5 Call 2/06 avg .05"
+    },
+    {
+        "ticker": "SPCE",
+        "strike": "3.5",
+        "type": "CALL",
+        "expiry": "2/6",
+        "price": "0.08",
+        "raw_text": "$SPCE 3.5 CALL 2/6 @ .08"
+    },
+    {
+        "ticker": "ABR",
+        "strike": "8",
+        "type": "CALL",
+        "expiry": "1/30",
+        "price": "0.08",
+        "raw_text": "$ABR 8 CALL 1/30 @ .08"
+    },
+    {
+        "ticker": "ABR",
+        "strike": "8",
+        "type": "CALL",
+        "expiry": "1/30",
+        "price": "0.1",
+        "raw_text": "$ABR 8 CALL 1/30 @ .10"
+    },
+    {
+        "ticker": "LUMN",
+        "strike": "9.5",
+        "type": "CALL",
+        "expiry": "1/30",
+        "price": "0.22",
+        "raw_text": "GAP FILL   $LUMN 9.5 Call 1/30 avg .22"
+    },
+    {
+        "ticker": "LUMN",
+        "strike": "10",
+        "type": "CALL",
+        "expiry": "1/30",
+        "price": "0.09",
+        "raw_text": "SHORT SQUEEZE   $LUMN 10 Call 1/30 at 0.09"
+    },
+    {
+        "ticker": "LUMN",
+        "strike": "10",
+        "type": "CALL",
+        "expiry": "1/30",
+        "price": "0.09",
+        "raw_text": "SHORT SQUEEZE POTENTIAL   $LUMN 10 CALL 1/30 @ .09"
+    },
+    {
+        "ticker": "AMTX",
+        "strike": "1.5",
+        "type": "CALL",
+        "expiry": "2/20",
+        "price": "0.25",
+        "raw_text": "SHORT SQUEEZE   $AMTX 1.5 Call 2/20 avg .25"
+    },
+    {
+        "ticker": "LUMN",
+        "strike": "10",
+        "type": "CALL",
+        "expiry": "1/30",
+        "price": "0.09",
+        "raw_text": "$LUMN 10 CALL 1/30 @ .09"
+    },
+    {
+        "ticker": "LUMN",
+        "strike": "10",
+        "type": "CALL",
+        "expiry": "1/30",
+        "price": "0.09",
+        "raw_text": "$LUMN 10 Call 1/30 at 0.09"
     }
 ]
