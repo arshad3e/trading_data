@@ -470,5 +470,13 @@
         "expiry": "1/30",
         "price": "0.06",
         "raw_text": "$EPD 34 Call 1/30 at 0.06"
+    },
+    {
+        "ticker": "EPD",
+        "strike": "34",
+        "type": "CALL",
+        "expiry": "1/30",
+        "price": "0.06",
+        "raw_text": "Potential 2-3x setup   $EPD 34 Call 1/30 at 0.06"
     }
 ]
