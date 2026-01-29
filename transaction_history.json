@@ -449,5 +449,16 @@
         "fill_price": 0.0,
         "message": "Order cancelled/rejected. Reason: ",
         "timestamp": "2026-01-29 01:02:34"
+    },
+    {
+        "ticker": "MPW",
+        "strike": 5.5,
+        "type": "C",
+        "expiry": "20260206",
+        "alert_price": 0.05,
+        "status": "FAILED_CAP_REACHED",
+        "fill_price": 0.0,
+        "message": "Price rose to $0.07, exceeding cap $0.06. Cancelling.",
+        "timestamp": "2026-01-29 01:03:05"
     }
 ]
