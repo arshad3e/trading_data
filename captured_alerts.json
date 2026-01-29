@@ -478,5 +478,37 @@
         "expiry": "1/30",
         "price": "0.06",
         "raw_text": "Potential 2-3x setup   $EPD 34 Call 1/30 at 0.06"
+    },
+    {
+        "ticker": "PCG",
+        "strike": "15.5",
+        "type": "CALL",
+        "expiry": "2/6",
+        "price": "0.16",
+        "raw_text": "SHORT SQUEEZE   $PCG 15.5 Call 2/6 at 0.16"
+    },
+    {
+        "ticker": "PCG",
+        "strike": "15.5",
+        "type": "CALL",
+        "expiry": "2/6",
+        "price": "0.16",
+        "raw_text": "$PCG NEXT WEEK CONTRACTS   $PCG 15.5 CALL 2/6 @ .16"
+    },
+    {
+        "ticker": "PCG",
+        "strike": "15.5",
+        "type": "CALL",
+        "expiry": "2/6",
+        "price": "0.16",
+        "raw_text": "$PCG 15.5 Call 2/6 at 0.16"
+    },
+    {
+        "ticker": "PCG",
+        "strike": "15.5",
+        "type": "CALL",
+        "expiry": "2/6",
+        "price": "0.16",
+        "raw_text": "$PCG 15.5 CALL 2/6 @ .16"
     }
 ]
