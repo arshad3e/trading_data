@@ -10,5 +10,17 @@
         "buy_commission": 1.04875,
         "message": "Filled @ 0.3 (Comm $1.04875). Sell Order placed @ 0.34",
         "timestamp": "2026-01-29 10:41:57"
+    },
+    {
+        "ticker": "ABR",
+        "strike": 7.5,
+        "type": "P",
+        "expiry": "20260130",
+        "alert_price": 0.11,
+        "status": "FILLED",
+        "fill_price": 0.12,
+        "buy_commission": 1.3975,
+        "message": "Filled @ 0.12. OCA Bracket (OCA_4882_ABR) Placed: TP $0.15 / SL $0.11",
+        "timestamp": "2026-01-30 09:56:34"
     }
 ]
