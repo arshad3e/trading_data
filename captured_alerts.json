@@ -110,5 +110,13 @@
         "expiry": "1/30",
         "price": "0.04",
         "raw_text": "10x POTENTIAL 0DTE   $CLF 14.5 Call 1/30 at 0.04"
+    },
+    {
+        "ticker": "MO",
+        "strike": "61",
+        "type": "CALL",
+        "expiry": "01/30",
+        "price": "0.16",
+        "raw_text": "$MO 61 CALL 01/30 @ 0.16  Let\u2019s get it! Only play of the day for me."
     }
 ]
