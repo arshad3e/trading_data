@@ -1,50 +1,10 @@
 [
     {
-        "ticker": "EPSN",
-        "strike": "5",
-        "type": "CALL",
-        "expiry": "2/20",
-        "price": "0.3",
-        "raw_text": "11X POTENTIAL   $EPSN 5 Call 2/20 avg .30"
-    },
-    {
-        "ticker": "EPSN",
-        "strike": "5",
-        "type": "CALL",
-        "expiry": "2/20",
-        "price": "0.3",
-        "raw_text": "SHORT SQUEEZE   $EPSN 5 Call 2/20 avg .30"
-    },
-    {
-        "ticker": "EPSN",
-        "strike": "5",
-        "type": "CALL",
-        "expiry": "2/20",
-        "price": "0.3",
-        "raw_text": "HIGH CONFIDENCE   $EPSN 5 Call 2/20 avg .30"
-    },
-    {
-        "ticker": "EPSN",
-        "strike": "5",
-        "type": "CALL",
-        "expiry": "2/20",
-        "price": "0.3",
-        "raw_text": "SWING TRADE    $EPSN 5 Call 2/20 avg .30"
-    },
-    {
-        "ticker": "EPSN",
-        "strike": "5",
-        "type": "CALL",
-        "expiry": "2/20",
-        "price": "0.3",
-        "raw_text": "SHORT SQUEEZEE   $EPSN 5 Call 2/20 avg .30"
-    },
-    {
-        "ticker": "EPSN",
-        "strike": "5",
-        "type": "CALL",
-        "expiry": "2/20",
-        "price": "0.3",
-        "raw_text": "ITM SWING PLAY   $EPSN 5 Call 2/20 avg .30"
+        "ticker": "ABR",
+        "strike": "7.5",
+        "type": "PUT",
+        "expiry": "1/30",
+        "price": "0.11",
+        "raw_text": "PUTS PLAY   $ABR 7.5 Put 1/30 avg .11"
     }
 ]
