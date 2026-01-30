@@ -78,5 +78,21 @@
         "expiry": "2/6",
         "price": "0.1",
         "raw_text": "Potential 2-3x Setup   $KHC 24 Call 2/6 at 0.10"
+    },
+    {
+        "ticker": "KHC",
+        "strike": "24",
+        "type": "CALL",
+        "expiry": "2/6",
+        "price": "0.09",
+        "raw_text": "$KHC 24 Call 2/6 at 0.09  (below my avg)"
+    },
+    {
+        "ticker": "KHC",
+        "strike": "24",
+        "type": "CALL",
+        "expiry": "2/6",
+        "price": "0.1",
+        "raw_text": "$KHC 24 CALL 2/6 @ .10  (below my avg here)"
     }
 ]
