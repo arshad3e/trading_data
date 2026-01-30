@@ -34,5 +34,17 @@
         "buy_commission": 0.0,
         "message": "Order cancelled/rejected. Reason: ",
         "timestamp": "2026-01-30 10:31:41"
+    },
+    {
+        "ticker": "KHC",
+        "strike": 24.0,
+        "type": "C",
+        "expiry": "20260206",
+        "alert_price": 0.1,
+        "status": "FILLED",
+        "fill_price": 0.1,
+        "buy_commission": 1.04875,
+        "message": "Filled @ 0.1. OCA Bracket (OCA_8641_KHC) Placed: TP $0.13 / SL $0.09000000000000001",
+        "timestamp": "2026-01-30 10:35:17"
     }
 ]
