@@ -22,5 +22,21 @@
         "expiry": "1/30",
         "price": "0.11",
         "raw_text": "$ABR 7.5 Put 1/30 avg .11"
+    },
+    {
+        "ticker": "TDOC",
+        "strike": "5.5",
+        "type": "PUT",
+        "expiry": "1/30",
+        "price": "0.08",
+        "raw_text": "PUTS   $TDOC 5.5 Put 1/30 avg .08"
+    },
+    {
+        "ticker": "TDOC",
+        "strike": "5.5",
+        "type": "PUT",
+        "expiry": "1/30",
+        "price": "0.08",
+        "raw_text": "PUTS PLAY   $TDOC 5.5 Put 1/30 avg .08"
     }
 ]
