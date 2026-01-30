@@ -58,5 +58,17 @@
         "buy_commission": 1.04875,
         "message": "Filled @ 0.09. OCA Bracket (OCA_7836_KHC) Placed: TP $0.12 / SL $0.08",
         "timestamp": "2026-01-30 10:38:33"
+    },
+    {
+        "ticker": "CLF",
+        "strike": 14.5,
+        "type": "C",
+        "expiry": "20260130",
+        "alert_price": 0.04,
+        "status": "FAILED_CAP_REACHED",
+        "fill_price": 0.0,
+        "buy_commission": 0.0,
+        "message": "Price rose to $0.06, exceeding cap $0.05. Cancelling.",
+        "timestamp": "2026-01-30 10:56:09"
     }
 ]

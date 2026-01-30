@@ -102,5 +102,13 @@
         "expiry": "1/30",
         "price": "0.04",
         "raw_text": "$CLF 14.5 Call 1/30 at 0.04"
+    },
+    {
+        "ticker": "CLF",
+        "strike": "14.5",
+        "type": "CALL",
+        "expiry": "1/30",
+        "price": "0.04",
+        "raw_text": "10x POTENTIAL 0DTE   $CLF 14.5 Call 1/30 at 0.04"
     }
 ]
