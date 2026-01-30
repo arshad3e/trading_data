@@ -38,5 +38,13 @@
         "expiry": "1/30",
         "price": "0.08",
         "raw_text": "PUTS PLAY   $TDOC 5.5 Put 1/30 avg .08"
+    },
+    {
+        "ticker": "KHC",
+        "strike": "24",
+        "type": "CALL",
+        "expiry": "2/6",
+        "price": "0.1",
+        "raw_text": "$KHC 24 CALL 2/6 @ .10"
     }
 ]
