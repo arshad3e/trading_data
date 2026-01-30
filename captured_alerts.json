@@ -118,5 +118,13 @@
         "expiry": "01/30",
         "price": "0.16",
         "raw_text": "$MO 61 CALL 01/30 @ 0.16  Let\u2019s get it! Only play of the day for me."
+    },
+    {
+        "ticker": "MO",
+        "strike": "61",
+        "type": "CALL",
+        "expiry": "01/30",
+        "price": "0.11",
+        "raw_text": "$MO 61 CALL 01/30 @ 0.11  Taking an average down here. Obviously risky because of it being Friday but I'm still looking for a quick move above $61."
     }
 ]
