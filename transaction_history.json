@@ -190,5 +190,17 @@
         "buy_commission": 0.0,
         "message": "Position already exists for PATH  260206C00013500",
         "timestamp": "2026-02-02 10:27:10"
+    },
+    {
+        "ticker": "HPQ",
+        "strike": 20.5,
+        "type": "C",
+        "expiry": "20260206",
+        "alert_price": 0.14,
+        "status": "SKIPPED",
+        "fill_price": 0.0,
+        "buy_commission": 0.0,
+        "message": "Insufficient funds (Buying Power: $50.92)",
+        "timestamp": "2026-02-02 10:27:31"
     }
 ]

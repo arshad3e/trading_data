@@ -151,5 +151,14 @@
         "expiry": "2/6",
         "price": "0.13",
         "raw_text": "$PATH 13.5 Call 2/6 at 0.13"
+    },
+    {
+        "timestamp": "2026-02-02 10:27:25",
+        "ticker": "HPQ",
+        "strike": "20.5",
+        "type": "CALL",
+        "expiry": "2/06",
+        "price": ".14",
+        "raw_text": "SHORT SQUEEZE   $HPQ 20.5 Call 2/06 avg .14"
     }
 ]
