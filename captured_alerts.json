@@ -16,5 +16,14 @@
         "expiry": "2/06",
         "price": ".07",
         "raw_text": "SHORT SQUEEZE   $TDOC 8 Call 2/06 avg .07"
+    },
+    {
+        "timestamp": "2026-02-02 09:53:13",
+        "ticker": "TDOC",
+        "strike": "8",
+        "type": "CALL",
+        "expiry": "2/06",
+        "price": ".05",
+        "raw_text": "SHORT SQUEEZE   $TDOC 8 Call 2/06 avg .05"
     }
 ]
