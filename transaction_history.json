@@ -526,5 +526,17 @@
         "buy_commission": 0.0,
         "message": "Insufficient funds (Buying Power: $5.68)",
         "timestamp": "2026-02-02 12:01:46"
+    },
+    {
+        "ticker": "PATH",
+        "strike": 13.5,
+        "type": "C",
+        "expiry": "20260206",
+        "alert_price": 0.0,
+        "status": "EXIT_FILLED",
+        "fill_price": 0.07,
+        "buy_commission": 0.0,
+        "message": "EXIT TRIGGERED: Sold 1.0 PATH  260206C00013500 @ $0.07",
+        "timestamp": "2026-02-02 13:30:33"
     }
 ]
