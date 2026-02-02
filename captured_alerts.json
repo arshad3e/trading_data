@@ -52,5 +52,50 @@
         "expiry": "2/20",
         "price": ".20",
         "raw_text": "HIGH CONFIDENCEE   $HAIN 1.5 Call 2/20 avg .20"
+    },
+    {
+        "timestamp": "2026-02-02 10:13:32",
+        "ticker": "HAIN",
+        "strike": "1.5",
+        "type": "CALL",
+        "expiry": "2/20",
+        "price": ".20",
+        "raw_text": "HIGH CONFIDENCEE   $HAIN 1.5 Call 2/20 avg .20"
+    },
+    {
+        "timestamp": "2026-02-02 10:13:33",
+        "ticker": "HAIN",
+        "strike": "1.5",
+        "type": "CALL",
+        "expiry": "2/20",
+        "price": ".20",
+        "raw_text": "10X POTENTIAL   $HAIN 1.5 Call 2/20 avg .20"
+    },
+    {
+        "timestamp": "2026-02-02 10:13:33",
+        "ticker": "HAIN",
+        "strike": "1.5",
+        "type": "CALL",
+        "expiry": "2/20",
+        "price": ".20",
+        "raw_text": "HIGH CONFIDENCE   $HAIN 1.5 Call 2/20 avg .20"
+    },
+    {
+        "timestamp": "2026-02-02 10:13:37",
+        "ticker": "GME",
+        "strike": "28",
+        "type": "CALL",
+        "expiry": "02/06",
+        "price": "0.28",
+        "raw_text": "$GME 28c 02/06 at 0.28  500 Contracts | 2-3 Day Swing"
+    },
+    {
+        "timestamp": "2026-02-02 10:13:37",
+        "ticker": "TDOC",
+        "strike": "8",
+        "type": "CALL",
+        "expiry": "2/06",
+        "price": ".05",
+        "raw_text": "SHORT SQUEEZE   $TDOC 8 Call 2/06 avg .05"
     }
 ]

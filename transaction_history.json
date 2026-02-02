@@ -142,5 +142,17 @@
         "buy_commission": 1.04875,
         "message": "Filled @ 0.2. OCA Bracket (OCA_4366_HAIN) Placed: TP $0.24 / SL $0.12",
         "timestamp": "2026-02-02 10:07:47"
+    },
+    {
+        "ticker": "GME",
+        "strike": 28.0,
+        "type": "C",
+        "expiry": "20260206",
+        "alert_price": 0.28,
+        "status": "SKIPPED",
+        "fill_price": 0.0,
+        "buy_commission": 0.0,
+        "message": "Insufficient funds (Buying Power: $65.47)",
+        "timestamp": "2026-02-02 10:13:39"
     }
 ]
