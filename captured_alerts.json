@@ -214,5 +214,23 @@
         "expiry": "2/13",
         "price": ".12",
         "raw_text": "NEXT WEEK CONTRACTS   $JBLU 5.5 Call 2/13 avg .12"
+    },
+    {
+        "timestamp": "2026-02-02 11:18:28",
+        "ticker": "CLOV",
+        "strike": "2.5",
+        "type": "CALL",
+        "expiry": "2/06",
+        "price": ".03",
+        "raw_text": "10X POTENTIAL   $CLOV 2.5 Call 2/06 avg .03"
+    },
+    {
+        "timestamp": "2026-02-02 11:18:28",
+        "ticker": "CLOV",
+        "strike": "2.5",
+        "type": "CALL",
+        "expiry": "2/06",
+        "price": ".03",
+        "raw_text": "SHORT SQUEEZE   $CLOV 2.5 Call 2/06 avg .03"
     }
 ]

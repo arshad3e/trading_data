@@ -502,5 +502,17 @@
         "buy_commission": 0.56875,
         "message": "Filled @ 0.13. OCA Bracket (OCA_3093_JBLU) Placed: TP $0.15 / SL $0.08",
         "timestamp": "2026-02-02 10:58:08"
+    },
+    {
+        "ticker": "CLOV",
+        "strike": 2.5,
+        "type": "C",
+        "expiry": "20260206",
+        "alert_price": 0.03,
+        "status": "SKIPPED",
+        "fill_price": 0.0,
+        "buy_commission": 0.0,
+        "message": "Insufficient funds (Buying Power: $5.68)",
+        "timestamp": "2026-02-02 11:18:32"
     }
 ]
