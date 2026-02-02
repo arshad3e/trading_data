@@ -250,5 +250,14 @@
         "expiry": "2/06",
         "price": ".03",
         "raw_text": "SIWNG TRADE   $CLOV 2.5 Call 2/06 avg .03"
+    },
+    {
+        "timestamp": "2026-02-02 12:01:44",
+        "ticker": "BAC",
+        "strike": "54.5",
+        "type": "CALL",
+        "expiry": "2/06",
+        "price": "0.28",
+        "raw_text": "$BAC 54.5 CALL 2/06 @ 0.28"
     }
 ]
