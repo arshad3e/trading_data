@@ -43,5 +43,14 @@
         "expiry": "2/20",
         "price": ".20",
         "raw_text": "HIGH CONFIDENCE   $HAIN 1.5 Call 2/20 avg .20"
+    },
+    {
+        "timestamp": "2026-02-02 10:09:17",
+        "ticker": "HAIN",
+        "strike": "1.5",
+        "type": "CALL",
+        "expiry": "2/20",
+        "price": ".20",
+        "raw_text": "HIGH CONFIDENCEE   $HAIN 1.5 Call 2/20 avg .20"
     }
 ]
