@@ -166,5 +166,29 @@
         "buy_commission": 0.0,
         "message": "Insufficient funds (Buying Power: $65.47)",
         "timestamp": "2026-02-02 10:22:46"
+    },
+    {
+        "ticker": "PATH",
+        "strike": 13.5,
+        "type": "C",
+        "expiry": "20260206",
+        "alert_price": 0.13,
+        "status": "ENTRY_FILLED",
+        "fill_price": 0.14,
+        "buy_commission": 0.55875,
+        "message": "Filled @ 0.14. OCA Bracket (OCA_3834_PATH) Placed: TP $0.16 / SL $0.08",
+        "timestamp": "2026-02-02 10:27:10"
+    },
+    {
+        "ticker": "PATH",
+        "strike": 13.5,
+        "type": "C",
+        "expiry": "20260206",
+        "alert_price": 0.13,
+        "status": "SKIPPED",
+        "fill_price": 0.0,
+        "buy_commission": 0.0,
+        "message": "Position already exists for PATH  260206C00013500",
+        "timestamp": "2026-02-02 10:27:10"
     }
 ]
