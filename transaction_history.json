@@ -550,5 +550,17 @@
         "buy_commission": 0.0,
         "message": "EXIT TRIGGERED: Sold 1.0 ENVX  260206C00007500 @ $0.11",
         "timestamp": "2026-02-02 13:52:22"
+    },
+    {
+        "ticker": "MPT",
+        "strike": 5.0,
+        "type": "C",
+        "expiry": "20260206",
+        "alert_price": 0.2,
+        "status": "SKIPPED",
+        "fill_price": 0.0,
+        "buy_commission": 0.0,
+        "message": "Insufficient funds (Buying Power: $4.06)",
+        "timestamp": "2026-02-02 14:06:02"
     }
 ]

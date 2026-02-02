@@ -259,5 +259,14 @@
         "expiry": "2/06",
         "price": "0.28",
         "raw_text": "$BAC 54.5 CALL 2/06 @ 0.28"
+    },
+    {
+        "timestamp": "2026-02-02 14:05:56",
+        "ticker": "MPT",
+        "strike": "5",
+        "type": "CALL",
+        "expiry": "02/06",
+        "price": "0.20",
+        "raw_text": "$MPT 5 CALL 02/06 @ 0.20   Let\u2019s get it!"
     }
 ]
