@@ -25,5 +25,23 @@
         "expiry": "2/06",
         "price": ".05",
         "raw_text": "SHORT SQUEEZE   $TDOC 8 Call 2/06 avg .05"
+    },
+    {
+        "timestamp": "2026-02-02 10:07:28",
+        "ticker": "HAIN",
+        "strike": "1.5",
+        "type": "CALL",
+        "expiry": "2/20",
+        "price": ".20",
+        "raw_text": "10X POTENTIAL   $HAIN 1.5 Call 2/20 avg .20"
+    },
+    {
+        "timestamp": "2026-02-02 10:07:28",
+        "ticker": "HAIN",
+        "strike": "1.5",
+        "type": "CALL",
+        "expiry": "2/20",
+        "price": ".20",
+        "raw_text": "HIGH CONFIDENCE   $HAIN 1.5 Call 2/20 avg .20"
     }
 ]
