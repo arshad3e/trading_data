@@ -187,5 +187,23 @@
         "expiry": "2/06",
         "price": ".23",
         "raw_text": "SHORT SQUEEZE   $ENVX 7 Call 2/06 avg .23"
+    },
+    {
+        "timestamp": "2026-02-02 10:55:22",
+        "ticker": "JBLU",
+        "strike": "5.5",
+        "type": "CALL",
+        "expiry": "2/6",
+        "price": "0.06",
+        "raw_text": "SHORT SQUEEZE   $JBLU 5.5 Call 2/6 at 0.06"
+    },
+    {
+        "timestamp": "2026-02-02 10:55:22",
+        "ticker": "JBLU",
+        "strike": "5.5",
+        "type": "CALL",
+        "expiry": "2/6",
+        "price": "0.06",
+        "raw_text": "$JBLU 5.5 Call 2/6 at 0.06"
     }
 ]

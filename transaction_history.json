@@ -334,5 +334,17 @@
         "buy_commission": 0.0,
         "message": "Insufficient funds (Buying Power: $41.35)",
         "timestamp": "2026-02-02 10:48:54"
+    },
+    {
+        "ticker": "JBLU",
+        "strike": 5.5,
+        "type": "C",
+        "expiry": "20260206",
+        "alert_price": 0.06,
+        "status": "ENTRY_FILLED",
+        "fill_price": 0.06,
+        "buy_commission": 1.04875,
+        "message": "Filled @ 0.06. OCA Bracket (OCA_4753_JBLU) Placed: TP $0.09 / SL $0.05",
+        "timestamp": "2026-02-02 10:55:41"
     }
 ]
