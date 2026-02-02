@@ -106,5 +106,50 @@
         "expiry": "2/6",
         "price": "3.64",
         "raw_text": "$ARM 2/6 110C @ 3.64 BWP"
+    },
+    {
+        "timestamp": "2026-02-02 10:26:36",
+        "ticker": "PATH",
+        "strike": "13.5",
+        "type": "CALL",
+        "expiry": "2/6",
+        "price": ".13",
+        "raw_text": "THIS CAN REVERSE $PATH   $PATH 13.5 CALL 2/6 @ .13"
+    },
+    {
+        "timestamp": "2026-02-02 10:26:36",
+        "ticker": "PATH",
+        "strike": "13.5",
+        "type": "CALL",
+        "expiry": "2/6",
+        "price": "0.13",
+        "raw_text": "HIGH CONFIDENCE   $PATH 13.5 Call 2/6 at 0.13"
+    },
+    {
+        "timestamp": "2026-02-02 10:26:36",
+        "ticker": "PATH",
+        "strike": "13.5",
+        "type": "CALL",
+        "expiry": "2/6",
+        "price": ".13",
+        "raw_text": "HIGH CONFIDENCE   $PATH 13.5 CALL 2/6 @ .13"
+    },
+    {
+        "timestamp": "2026-02-02 10:26:36",
+        "ticker": "PATH",
+        "strike": "13.5",
+        "type": "CALL",
+        "expiry": "2/6",
+        "price": ".13",
+        "raw_text": "$PATH 13.5 CALL 2/6 @ .13"
+    },
+    {
+        "timestamp": "2026-02-02 10:26:36",
+        "ticker": "PATH",
+        "strike": "13.5",
+        "type": "CALL",
+        "expiry": "2/6",
+        "price": "0.13",
+        "raw_text": "$PATH 13.5 Call 2/6 at 0.13"
     }
 ]
