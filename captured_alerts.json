@@ -205,5 +205,14 @@
         "expiry": "2/6",
         "price": "0.06",
         "raw_text": "$JBLU 5.5 Call 2/6 at 0.06"
+    },
+    {
+        "timestamp": "2026-02-02 10:57:12",
+        "ticker": "JBLU",
+        "strike": "5.5",
+        "type": "CALL",
+        "expiry": "2/13",
+        "price": ".12",
+        "raw_text": "NEXT WEEK CONTRACTS   $JBLU 5.5 Call 2/13 avg .12"
     }
 ]
