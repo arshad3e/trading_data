@@ -268,5 +268,14 @@
         "expiry": "02/06",
         "price": "0.20",
         "raw_text": "$MPT 5 CALL 02/06 @ 0.20   Let\u2019s get it!"
+    },
+    {
+        "timestamp": "2026-02-02 14:40:08",
+        "ticker": "NFLX",
+        "strike": "85",
+        "type": "CALL",
+        "expiry": "2/13",
+        "price": ".98",
+        "raw_text": "$NFLX 2/13 85c @ .98 Reload. New avg in to swing."
     }
 ]
