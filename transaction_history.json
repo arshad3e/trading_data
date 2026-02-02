@@ -130,5 +130,17 @@
         "buy_commission": 0.0,
         "message": "Position already exists for TDOC  260206C00008000",
         "timestamp": "2026-02-02 09:53:14"
+    },
+    {
+        "ticker": "HAIN",
+        "strike": 1.5,
+        "type": "C",
+        "expiry": "20260220",
+        "alert_price": 0.2,
+        "status": "ENTRY_FILLED",
+        "fill_price": 0.2,
+        "buy_commission": 1.04875,
+        "message": "Filled @ 0.2. OCA Bracket (OCA_4366_HAIN) Placed: TP $0.24 / SL $0.12",
+        "timestamp": "2026-02-02 10:07:47"
     }
 ]
