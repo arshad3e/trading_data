@@ -241,5 +241,14 @@
         "expiry": "2/06",
         "price": ".03",
         "raw_text": "HIGH CONFIDENCE   $CLOV 2.5 Call 2/06 avg .03"
+    },
+    {
+        "timestamp": "2026-02-02 11:22:33",
+        "ticker": "CLOV",
+        "strike": "2.5",
+        "type": "CALL",
+        "expiry": "2/06",
+        "price": ".03",
+        "raw_text": "SIWNG TRADE   $CLOV 2.5 Call 2/06 avg .03"
     }
 ]
