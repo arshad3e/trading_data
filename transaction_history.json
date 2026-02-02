@@ -202,5 +202,41 @@
         "buy_commission": 0.0,
         "message": "Insufficient funds (Buying Power: $50.92)",
         "timestamp": "2026-02-02 10:27:31"
+    },
+    {
+        "ticker": "NFLX",
+        "strike": 85.0,
+        "type": "C",
+        "expiry": "20260213",
+        "alert_price": 1.75,
+        "status": "SKIPPED",
+        "fill_price": 0.0,
+        "buy_commission": 0.0,
+        "message": "Insufficient funds (Buying Power: $50.92)",
+        "timestamp": "2026-02-02 10:35:51"
+    },
+    {
+        "ticker": "TDOC",
+        "strike": 8.0,
+        "type": "C",
+        "expiry": "20260206",
+        "alert_price": 0.07,
+        "status": "SKIPPED",
+        "fill_price": 0.0,
+        "buy_commission": 0.0,
+        "message": "Position already exists for TDOC  260206C00008000",
+        "timestamp": "2026-02-02 10:35:52"
+    },
+    {
+        "ticker": "TDOC",
+        "strike": 8.0,
+        "type": "C",
+        "expiry": "20260206",
+        "alert_price": 0.05,
+        "status": "SKIPPED",
+        "fill_price": 0.0,
+        "buy_commission": 0.0,
+        "message": "Position already exists for TDOC  260206C00008000",
+        "timestamp": "2026-02-02 10:35:52"
     }
 ]
