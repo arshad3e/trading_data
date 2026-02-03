@@ -622,5 +622,17 @@
         "buy_commission": 0.0,
         "message": "Insufficient funds (Buying Power: $18.98)",
         "timestamp": "2026-02-03 09:37:05"
+    },
+    {
+        "ticker": "PG",
+        "strike": 157.5,
+        "type": "C",
+        "expiry": "20260206",
+        "alert_price": 0.21,
+        "status": "SKIPPED",
+        "fill_price": 0.0,
+        "buy_commission": 0.0,
+        "message": "Insufficient funds (Buying Power: $18.98)",
+        "timestamp": "2026-02-03 09:45:11"
     }
 ]
