@@ -814,5 +814,29 @@
         "buy_commission": 0.0,
         "message": "EXIT TRIGGERED: Sold 1.0 HAIN  260220C00001500 @ $0.08",
         "timestamp": "2026-02-03 11:47:12"
+    },
+    {
+        "ticker": "WEN",
+        "strike": 8.0,
+        "type": "C",
+        "expiry": "20260206",
+        "alert_price": 0.15,
+        "status": "SKIPPED",
+        "fill_price": 0.0,
+        "buy_commission": 0.0,
+        "message": "Insufficient funds (Buying Power: $4.34)",
+        "timestamp": "2026-02-03 12:44:12"
+    },
+    {
+        "ticker": "WEN",
+        "strike": 8.0,
+        "type": "C",
+        "expiry": "20260206",
+        "alert_price": 0.15,
+        "status": "SKIPPED",
+        "fill_price": 0.0,
+        "buy_commission": 0.0,
+        "message": "Insufficient funds (Buying Power: $4.34)",
+        "timestamp": "2026-02-03 12:44:12"
     }
 ]
