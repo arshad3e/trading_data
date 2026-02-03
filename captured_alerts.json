@@ -304,5 +304,14 @@
         "expiry": "2/6",
         "price": ".15",
         "raw_text": "SHORT SQUEEZE POTENTIAL   $WEN 8 CALL 2/6 @ .15"
+    },
+    {
+        "timestamp": "2026-02-03 12:46:08",
+        "ticker": "WEN",
+        "strike": "8",
+        "type": "CALL",
+        "expiry": "2/6",
+        "price": ".15",
+        "raw_text": "SHORT SQUEEZE   $WEN 8 CALL 2/6 @ .15"
     }
 ]
