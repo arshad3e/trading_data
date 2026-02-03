@@ -241,5 +241,23 @@
         "expiry": "2/6",
         "price": ".06",
         "raw_text": "$ET 18.5 CALL 2/6 @ .06  is my avg"
+    },
+    {
+        "timestamp": "2026-02-03 11:05:09",
+        "ticker": "ET",
+        "strike": "18.5",
+        "type": "CALL",
+        "expiry": "2/6",
+        "price": "0.07",
+        "raw_text": "High Confidence   $ET 18.5 Call 2/6 at 0.07"
+    },
+    {
+        "timestamp": "2026-02-03 11:05:09",
+        "ticker": "ET",
+        "strike": "18.5",
+        "type": "CALL",
+        "expiry": "2/6",
+        "price": "0.07",
+        "raw_text": "$ET 18.5 Call 2/6 at 0.07"
     }
 ]
