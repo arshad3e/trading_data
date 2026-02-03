@@ -886,5 +886,17 @@
         "buy_commission": 0.0,
         "message": "Insufficient funds (Buying Power: $4.34)",
         "timestamp": "2026-02-03 15:03:48"
+    },
+    {
+        "ticker": "SPY",
+        "strike": 688.0,
+        "type": "C",
+        "expiry": "20260205",
+        "alert_price": 3.74,
+        "status": "SKIPPED",
+        "fill_price": 0.0,
+        "buy_commission": 0.0,
+        "message": "Insufficient funds (Buying Power: $4.34)",
+        "timestamp": "2026-02-03 15:24:43"
     }
 ]

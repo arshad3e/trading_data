@@ -367,5 +367,14 @@
         "expiry": "02/06",
         "price": "0.18",
         "raw_text": "$M 22 CALL 02/06 @ 0.18  This is a swing play.  Posting my average here"
+    },
+    {
+        "timestamp": "2026-02-03 15:24:40",
+        "ticker": "SPY",
+        "strike": "688",
+        "type": "CALL",
+        "expiry": "2/5",
+        "price": "3.74",
+        "raw_text": "$SPY 2/5 688c @ 3.74 BWP"
     }
 ]
