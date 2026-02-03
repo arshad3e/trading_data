@@ -70,5 +70,14 @@
         "expiry": "2/6",
         "price": "0.07",
         "raw_text": "$KVUE 18 Call 2/6 at 0.07"
+    },
+    {
+        "timestamp": "2026-02-03 10:20:28",
+        "ticker": "KVUE",
+        "strike": "18",
+        "type": "CALL",
+        "expiry": "2/6",
+        "price": "0.08",
+        "raw_text": "Short Squeeze   $KVUE 18 Call 2/6 at 0.08"
     }
 ]

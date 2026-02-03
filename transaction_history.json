@@ -682,5 +682,17 @@
         "buy_commission": 0.0,
         "message": "Insufficient funds (Buying Power: $5.39)",
         "timestamp": "2026-02-03 10:20:10"
+    },
+    {
+        "ticker": "KVUE",
+        "strike": 18.0,
+        "type": "C",
+        "expiry": "20260206",
+        "alert_price": 0.08,
+        "status": "SKIPPED",
+        "fill_price": 0.0,
+        "buy_commission": 0.0,
+        "message": "Insufficient funds (Buying Power: $5.39)",
+        "timestamp": "2026-02-03 10:20:31"
     }
 ]
