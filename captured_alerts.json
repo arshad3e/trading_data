@@ -124,5 +124,23 @@
         "expiry": "2/06",
         "price": ".05",
         "raw_text": "10X POTENTIAL   $EPD 35 Call 2/06 avg .05"
+    },
+    {
+        "timestamp": "2026-02-03 10:40:44",
+        "ticker": "EPD",
+        "strike": "35",
+        "type": "CALL",
+        "expiry": "2/06",
+        "price": ".06",
+        "raw_text": "$EPD 35 Call 2/06 avg .06"
+    },
+    {
+        "timestamp": "2026-02-03 10:40:44",
+        "ticker": "EPD",
+        "strike": "35",
+        "type": "CALL",
+        "expiry": "2/06",
+        "price": ".06",
+        "raw_text": "11X Potential   $EPD 35 Call 2/06 avg .06"
     }
 ]
