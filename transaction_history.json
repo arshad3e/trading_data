@@ -838,5 +838,17 @@
         "buy_commission": 0.0,
         "message": "Insufficient funds (Buying Power: $4.34)",
         "timestamp": "2026-02-03 12:44:12"
+    },
+    {
+        "ticker": "CLOV",
+        "strike": 2.0,
+        "type": "P",
+        "expiry": "20260213",
+        "alert_price": 0.06,
+        "status": "SKIPPED",
+        "fill_price": 0.0,
+        "buy_commission": 0.0,
+        "message": "Insufficient funds (Buying Power: $4.34)",
+        "timestamp": "2026-02-03 12:47:28"
     }
 ]

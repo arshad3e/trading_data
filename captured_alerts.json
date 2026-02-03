@@ -322,5 +322,14 @@
         "expiry": "2/13",
         "price": "0.06",
         "raw_text": "$CLOV 2 PUT 2/13 @ 0.06"
+    },
+    {
+        "timestamp": "2026-02-03 12:47:46",
+        "ticker": "CLOV",
+        "strike": "2",
+        "type": "PUT",
+        "expiry": "2/13",
+        "price": "0.06",
+        "raw_text": "GAP FILL   $CLOV 2 PUT 2/13 @ 0.06"
     }
 ]
