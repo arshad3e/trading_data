@@ -88,5 +88,23 @@
         "expiry": "02/06",
         "price": "2.10",
         "raw_text": "$OKLO 80c 02/06 at 2.10  4 Contracts | Challenge"
+    },
+    {
+        "timestamp": "2026-02-03 10:27:54",
+        "ticker": "CHPT",
+        "strike": "6",
+        "type": "CALL",
+        "expiry": "2/06",
+        "price": ".24",
+        "raw_text": "7X POTENTIAL   $CHPT 6 Call 2/06 avg .24"
+    },
+    {
+        "timestamp": "2026-02-03 10:27:54",
+        "ticker": "CHPT",
+        "strike": "6",
+        "type": "CALL",
+        "expiry": "2/06",
+        "price": ".24",
+        "raw_text": "HIGH CONFIDENCE   $CHPT 6 Call 2/06 avg .24"
     }
 ]
