@@ -358,5 +358,14 @@
         "expiry": "02/06",
         "price": "0.17",
         "raw_text": "$M 22 CALL 02/06 @ 0.17   I have 300 cons  Target is 22.30 Stop loss is 20.80"
+    },
+    {
+        "timestamp": "2026-02-03 15:03:45",
+        "ticker": "M",
+        "strike": "22",
+        "type": "CALL",
+        "expiry": "02/06",
+        "price": "0.18",
+        "raw_text": "$M 22 CALL 02/06 @ 0.18  This is a swing play.  Posting my average here"
     }
 ]
