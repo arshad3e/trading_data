@@ -106,5 +106,23 @@
         "expiry": "2/06",
         "price": ".24",
         "raw_text": "HIGH CONFIDENCE   $CHPT 6 Call 2/06 avg .24"
+    },
+    {
+        "timestamp": "2026-02-03 10:40:00",
+        "ticker": "EPD",
+        "strike": "35",
+        "type": "CALL",
+        "expiry": "2/06",
+        "price": ".06",
+        "raw_text": "HIGH CONFIDENCE   $EPD 35 Call 2/06 avg .06"
+    },
+    {
+        "timestamp": "2026-02-03 10:40:22",
+        "ticker": "EPD",
+        "strike": "35",
+        "type": "CALL",
+        "expiry": "2/06",
+        "price": ".05",
+        "raw_text": "10X POTENTIAL   $EPD 35 Call 2/06 avg .05"
     }
 ]

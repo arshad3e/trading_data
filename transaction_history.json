@@ -706,5 +706,41 @@
         "buy_commission": 0.0,
         "message": "Insufficient funds (Buying Power: $5.39)",
         "timestamp": "2026-02-03 10:25:17"
+    },
+    {
+        "ticker": "CHPT",
+        "strike": 6.0,
+        "type": "C",
+        "expiry": "20260206",
+        "alert_price": 0.24,
+        "status": "SKIPPED",
+        "fill_price": 0.0,
+        "buy_commission": 0.0,
+        "message": "Insufficient funds (Buying Power: $5.39)",
+        "timestamp": "2026-02-03 10:27:58"
+    },
+    {
+        "ticker": "EPD",
+        "strike": 35.0,
+        "type": "C",
+        "expiry": "20260206",
+        "alert_price": 0.06,
+        "status": "SKIPPED",
+        "fill_price": 0.0,
+        "buy_commission": 0.0,
+        "message": "Insufficient funds (Buying Power: $5.39)",
+        "timestamp": "2026-02-03 10:40:04"
+    },
+    {
+        "ticker": "EPD",
+        "strike": 35.0,
+        "type": "C",
+        "expiry": "20260206",
+        "alert_price": 0.05,
+        "status": "SKIPPED",
+        "fill_price": 0.0,
+        "buy_commission": 0.0,
+        "message": "Insufficient funds (Buying Power: $5.39)",
+        "timestamp": "2026-02-03 10:40:25"
     }
 ]
