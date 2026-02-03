@@ -634,5 +634,17 @@
         "buy_commission": 0.0,
         "message": "Insufficient funds (Buying Power: $18.98)",
         "timestamp": "2026-02-03 09:45:11"
+    },
+    {
+        "ticker": "AGNC",
+        "strike": 11.5,
+        "type": "C",
+        "expiry": "20260206",
+        "alert_price": 0.1,
+        "status": "ENTRY_FILLED",
+        "fill_price": 0.11,
+        "buy_commission": 1.53875,
+        "message": "Filled @ 0.11. OCA Bracket (OCA_2765_AGNC) Placed: TP $0.15 / SL $0.08",
+        "timestamp": "2026-02-03 09:55:32"
     }
 ]

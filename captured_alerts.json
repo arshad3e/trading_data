@@ -25,5 +25,14 @@
         "expiry": "2/06",
         "price": ".10",
         "raw_text": "HIGH CONFIDENCE   $AGNC 11.5 Call 2/06 avg .10"
+    },
+    {
+        "timestamp": "2026-02-03 09:55:43",
+        "ticker": "AGNC",
+        "strike": "11.5",
+        "type": "CALL",
+        "expiry": "2/06",
+        "price": ".10",
+        "raw_text": "8X POTENTIAL   $AGNC 11.5 Call 2/06 avg .10"
     }
 ]
