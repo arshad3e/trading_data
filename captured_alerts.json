@@ -7,5 +7,14 @@
         "expiry": "2/3",
         "price": "2.00",
         "raw_text": "$SPX 2/3 6930P @ 2.00 BWP"
+    },
+    {
+        "timestamp": "2026-02-03 09:45:07",
+        "ticker": "PG",
+        "strike": "157.5",
+        "type": "CALL",
+        "expiry": "2/06",
+        "price": ".21",
+        "raw_text": "HIGH CONFIDENCE   $PG 157.5 Call 2/06 avg .21"
     }
 ]
