@@ -79,5 +79,14 @@
         "expiry": "2/6",
         "price": "0.08",
         "raw_text": "Short Squeeze   $KVUE 18 Call 2/6 at 0.08"
+    },
+    {
+        "timestamp": "2026-02-03 10:25:12",
+        "ticker": "OKLO",
+        "strike": "80",
+        "type": "CALL",
+        "expiry": "02/06",
+        "price": "2.10",
+        "raw_text": "$OKLO 80c 02/06 at 2.10  4 Contracts | Challenge"
     }
 ]
