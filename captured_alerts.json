@@ -187,5 +187,23 @@
         "expiry": "2/06",
         "price": ".06",
         "raw_text": "$SPCE 3 Call 2/06 avg .06"
+    },
+    {
+        "timestamp": "2026-02-03 10:53:05",
+        "ticker": "ET",
+        "strike": "18.5",
+        "type": "CALL",
+        "expiry": "2/6",
+        "price": ".07",
+        "raw_text": "high confidence   $ET 18.5 CALL 2/6 @ .07"
+    },
+    {
+        "timestamp": "2026-02-03 10:53:05",
+        "ticker": "ET",
+        "strike": "18.5",
+        "type": "CALL",
+        "expiry": "2/6",
+        "price": ".07",
+        "raw_text": "$ET 18.5 CALL 2/6 @ .07"
     }
 ]
