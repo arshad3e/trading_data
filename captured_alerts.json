@@ -16,5 +16,14 @@
         "expiry": "2/06",
         "price": ".21",
         "raw_text": "HIGH CONFIDENCE   $PG 157.5 Call 2/06 avg .21"
+    },
+    {
+        "timestamp": "2026-02-03 09:54:58",
+        "ticker": "AGNC",
+        "strike": "11.5",
+        "type": "CALL",
+        "expiry": "2/06",
+        "price": ".10",
+        "raw_text": "HIGH CONFIDENCE   $AGNC 11.5 Call 2/06 avg .10"
     }
 ]
