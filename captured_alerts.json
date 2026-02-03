@@ -34,5 +34,23 @@
         "expiry": "2/06",
         "price": ".10",
         "raw_text": "8X POTENTIAL   $AGNC 11.5 Call 2/06 avg .10"
+    },
+    {
+        "timestamp": "2026-02-03 10:00:58",
+        "ticker": "MO",
+        "strike": "65",
+        "type": "CALL",
+        "expiry": "2/06",
+        "price": ".07",
+        "raw_text": "$MO 65 Call 2/06 avg .07"
+    },
+    {
+        "timestamp": "2026-02-03 10:00:58",
+        "ticker": "MO",
+        "strike": "65",
+        "type": "CALL",
+        "expiry": "2/06",
+        "price": ".07",
+        "raw_text": "HIGH CONFIDENCE   $MO 65 Call 2/06 avg .07"
     }
 ]
