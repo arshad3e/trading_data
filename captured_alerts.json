@@ -340,5 +340,14 @@
         "expiry": "2/13",
         "price": "0.06",
         "raw_text": "NEXT WEEK CONTRACTS  $CLOV 2 PUT 2/13 @ 0.06"
+    },
+    {
+        "timestamp": "2026-02-03 14:09:40",
+        "ticker": "M",
+        "strike": "22",
+        "type": "CALL",
+        "expiry": "02/06",
+        "price": "0.19",
+        "raw_text": "$M 22 CALL 02/06 @ 0.19   Let\u2019s get it!"
     }
 ]
