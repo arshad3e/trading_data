@@ -286,5 +286,23 @@
         "expiry": "2/6",
         "price": "0.15",
         "raw_text": "$WEN 8 Call 2/6 at 0.15"
+    },
+    {
+        "timestamp": "2026-02-03 12:44:47",
+        "ticker": "WEN",
+        "strike": "8",
+        "type": "CALL",
+        "expiry": "2/6",
+        "price": "0.15",
+        "raw_text": "High Confidence   $WEN 8 Call 2/6 at 0.15"
+    },
+    {
+        "timestamp": "2026-02-03 12:44:47",
+        "ticker": "WEN",
+        "strike": "8",
+        "type": "CALL",
+        "expiry": "2/6",
+        "price": ".15",
+        "raw_text": "SHORT SQUEEZE POTENTIAL   $WEN 8 CALL 2/6 @ .15"
     }
 ]
