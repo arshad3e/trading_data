@@ -151,5 +151,23 @@
         "expiry": "2/06",
         "price": ".06",
         "raw_text": "FAST ALERT   $EPD 35 Call 2/06 avg .06"
+    },
+    {
+        "timestamp": "2026-02-03 10:51:18",
+        "ticker": "SPCE",
+        "strike": "3",
+        "type": "CALL",
+        "expiry": "2/06",
+        "price": ".06",
+        "raw_text": "FAST ALERT  $SPCE 3 Call 2/06 avg .06"
+    },
+    {
+        "timestamp": "2026-02-03 10:51:18",
+        "ticker": "SPCE",
+        "strike": "3",
+        "type": "CALL",
+        "expiry": "2/06",
+        "price": ".06",
+        "raw_text": "HIGH CONFIDENCE   $SPCE 3 Call 2/06 avg .06"
     }
 ]
