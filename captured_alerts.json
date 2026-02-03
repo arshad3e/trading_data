@@ -52,5 +52,14 @@
         "expiry": "2/06",
         "price": ".07",
         "raw_text": "HIGH CONFIDENCE   $MO 65 Call 2/06 avg .07"
+    },
+    {
+        "timestamp": "2026-02-03 10:03:25",
+        "ticker": "MO",
+        "strike": "65",
+        "type": "CALL",
+        "expiry": "2/06",
+        "price": ".07",
+        "raw_text": "SHORTING SQUEEZE   $MO 65 Call 2/06 avg .07"
     }
 ]
