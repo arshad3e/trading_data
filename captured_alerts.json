@@ -169,5 +169,23 @@
         "expiry": "2/06",
         "price": ".06",
         "raw_text": "HIGH CONFIDENCE   $SPCE 3 Call 2/06 avg .06"
+    },
+    {
+        "timestamp": "2026-02-03 10:51:40",
+        "ticker": "SPCE",
+        "strike": "3",
+        "type": "CALL",
+        "expiry": "2/06",
+        "price": ".06",
+        "raw_text": "7X POTENTIAL   $SPCE 3 Call 2/06 avg .06"
+    },
+    {
+        "timestamp": "2026-02-03 10:52:01",
+        "ticker": "SPCE",
+        "strike": "3",
+        "type": "CALL",
+        "expiry": "2/06",
+        "price": ".06",
+        "raw_text": "$SPCE 3 Call 2/06 avg .06"
     }
 ]
