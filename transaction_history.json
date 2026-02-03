@@ -610,5 +610,17 @@
         "buy_commission": 0.0,
         "message": "EXIT TRIGGERED: Sold 1.0 HPQ   260206C00020500 @ $0.01",
         "timestamp": "2026-02-03 09:33:07"
+    },
+    {
+        "ticker": "SPX",
+        "strike": 6930.0,
+        "type": "P",
+        "expiry": "20260203",
+        "alert_price": 2.0,
+        "status": "SKIPPED",
+        "fill_price": 0.0,
+        "buy_commission": 0.0,
+        "message": "Insufficient funds (Buying Power: $18.98)",
+        "timestamp": "2026-02-03 09:37:05"
     }
 ]

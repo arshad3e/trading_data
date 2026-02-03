@@ -1,11 +1,11 @@
 [
     {
-        "timestamp": "2026-02-02 14:05:56",
-        "ticker": "MPT",
-        "strike": "5",
-        "type": "CALL",
-        "expiry": "02/06",
-        "price": "0.20",
-        "raw_text": "$MPT 5 CALL 02/06 @ 0.20   Let\u2019s get it!"
+        "timestamp": "2026-02-03 09:36:59",
+        "ticker": "SPX",
+        "strike": "6930",
+        "type": "PUT",
+        "expiry": "2/3",
+        "price": "2.00",
+        "raw_text": "$SPX 2/3 6930P @ 2.00 BWP"
     }
 ]
