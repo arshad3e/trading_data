@@ -574,5 +574,29 @@
         "buy_commission": 0.0,
         "message": "Insufficient funds (Buying Power: $4.06)",
         "timestamp": "2026-02-02 14:40:11"
+    },
+    {
+        "ticker": "JBLU",
+        "strike": 5.5,
+        "type": "C",
+        "expiry": "20260213",
+        "alert_price": 0.0,
+        "status": "EXIT_FILLED",
+        "fill_price": 0.17,
+        "buy_commission": 0.0,
+        "message": "EXIT TRIGGERED: Sold 1.0 JBLU  260213C00005500 @ $0.17",
+        "timestamp": "2026-02-03 09:30:01"
+    },
+    {
+        "ticker": "JBLU",
+        "strike": 5.5,
+        "type": "C",
+        "expiry": "20260206",
+        "alert_price": 0.0,
+        "status": "EXIT_FILLED",
+        "fill_price": 0.09,
+        "buy_commission": 0.0,
+        "message": "EXIT TRIGGERED: Sold 1.0 JBLU  260206C00005500 @ $0.09",
+        "timestamp": "2026-02-03 09:30:01"
     }
 ]
