@@ -598,5 +598,17 @@
         "buy_commission": 0.0,
         "message": "EXIT TRIGGERED: Sold 1.0 JBLU  260206C00005500 @ $0.09",
         "timestamp": "2026-02-03 09:30:01"
+    },
+    {
+        "ticker": "HPQ",
+        "strike": 20.5,
+        "type": "C",
+        "expiry": "20260206",
+        "alert_price": 0.0,
+        "status": "EXIT_FILLED",
+        "fill_price": 0.01,
+        "buy_commission": 0.0,
+        "message": "EXIT TRIGGERED: Sold 1.0 HPQ   260206C00020500 @ $0.01",
+        "timestamp": "2026-02-03 09:33:07"
     }
 ]
