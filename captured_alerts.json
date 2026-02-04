@@ -7,5 +7,23 @@
         "expiry": "2/06",
         "price": ".04",
         "raw_text": "HIGH CONFIDENCE   $MPT 5.5 Call 2/06 avg .04"
+    },
+    {
+        "timestamp": "2026-02-04 09:36:05",
+        "ticker": "MPT",
+        "strike": "5.5",
+        "type": "CALL",
+        "expiry": "2/06",
+        "price": ".04",
+        "raw_text": "SHORTING SQUEEZE   $MPT 5.5 Call 2/06 avg .04"
+    },
+    {
+        "timestamp": "2026-02-04 09:36:05",
+        "ticker": "MPT",
+        "strike": "5.5",
+        "type": "CALL",
+        "expiry": "2/06",
+        "price": ".04",
+        "raw_text": "10X POTENTIAL   $MPT 5.5 Call 2/06 avg .04"
     }
 ]
