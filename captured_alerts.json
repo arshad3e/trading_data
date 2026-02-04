@@ -187,5 +187,14 @@
         "expiry": "2/20",
         "price": ".15",
         "raw_text": "$SWBI 13 CALL 2/20 @ .15"
+    },
+    {
+        "timestamp": "2026-02-04 10:51:18",
+        "ticker": "SWBI",
+        "strike": "13",
+        "type": "CALL",
+        "expiry": "2/20",
+        "price": ".15",
+        "raw_text": "HIGH CONFIDENCE   $SWBI 13 CALL 2/20 @ .15"
     }
 ]
