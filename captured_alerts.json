@@ -430,5 +430,14 @@
         "expiry": "2/06",
         "price": ".15",
         "raw_text": "SHORTING    $ABR 7.5 Put 2/06 avg .15"
+    },
+    {
+        "timestamp": "2026-02-04 11:50:38",
+        "ticker": "KVUE",
+        "strike": "18",
+        "type": "CALL",
+        "expiry": "02/06",
+        "price": "0.17",
+        "raw_text": "$KVUE 18 CALL 02/06 @ 0.17   Let\u2019s get it!"
     }
 ]
