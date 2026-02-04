@@ -142,5 +142,23 @@
         "expiry": "2/13",
         "price": ".10",
         "raw_text": "$RIG NEXT WEEKS   $RIG 5.5 CALL 2/13 @ .10"
+    },
+    {
+        "timestamp": "2026-02-04 10:33:08",
+        "ticker": "NLY",
+        "strike": "23.5",
+        "type": "CALL",
+        "expiry": "2/13",
+        "price": ".14",
+        "raw_text": "SHORT SQUEEZE SWING  $NLY 23.5 Call 2/13 avg .14"
+    },
+    {
+        "timestamp": "2026-02-04 10:33:08",
+        "ticker": "NLY",
+        "strike": "23.5",
+        "type": "CALL",
+        "expiry": "2/13",
+        "price": ".14",
+        "raw_text": "NEXT WEEK CONTRACTS   $NLY 23.5 Call 2/13 avg .14"
     }
 ]
