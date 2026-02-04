@@ -922,5 +922,17 @@
         "buy_commission": 0.0,
         "message": "EXIT TRIGGERED: Sold 2.0 MPT   260206C00005500 @ $0.05",
         "timestamp": "2026-02-04 09:36:03"
+    },
+    {
+        "ticker": "SPX",
+        "strike": 6980.0,
+        "type": "C",
+        "expiry": "20260204",
+        "alert_price": 2.0,
+        "status": "SKIPPED",
+        "fill_price": 0.0,
+        "buy_commission": 0.0,
+        "message": "Insufficient funds (Buying Power: $37.10)",
+        "timestamp": "2026-02-04 09:38:32"
     }
 ]

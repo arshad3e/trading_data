@@ -34,5 +34,14 @@
         "expiry": "2/06",
         "price": ".04",
         "raw_text": "$MPT 5.5 Call 2/06 avg .04"
+    },
+    {
+        "timestamp": "2026-02-04 09:38:30",
+        "ticker": "SPX",
+        "strike": "6980",
+        "type": "CALL",
+        "expiry": "2/4",
+        "price": "2.00",
+        "raw_text": "$SPX 2/4 6980C @ 2.00 BWP"
     }
 ]
