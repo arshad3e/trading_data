@@ -1162,5 +1162,17 @@
         "buy_commission": 0.0,
         "message": "EXIT TRIGGERED: Sold 1.0 PCG   260206C00016000 @ $0.12",
         "timestamp": "2026-02-04 11:40:10"
+    },
+    {
+        "ticker": "ABR",
+        "strike": 7.5,
+        "type": "P",
+        "expiry": "20260206",
+        "alert_price": 0.15,
+        "status": "SKIPPED",
+        "fill_price": 0.0,
+        "buy_commission": 0.0,
+        "message": "Insufficient funds (Buying Power: $4.85)",
+        "timestamp": "2026-02-04 11:46:14"
     }
 ]
