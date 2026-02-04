@@ -934,5 +934,17 @@
         "buy_commission": 0.0,
         "message": "Insufficient funds (Buying Power: $37.10)",
         "timestamp": "2026-02-04 09:38:32"
+    },
+    {
+        "ticker": "MPT",
+        "strike": 5.5,
+        "type": "C",
+        "expiry": "20260213",
+        "alert_price": 0.08,
+        "status": "ENTRY_FILLED",
+        "fill_price": 0.08,
+        "buy_commission": 1.04875,
+        "message": "Filled @ 0.08. OCA Bracket (OCA_3923_MPT) Placed: TP $0.11 / SL $0.06",
+        "timestamp": "2026-02-04 09:41:18"
     }
 ]
