@@ -205,5 +205,23 @@
         "expiry": "2/20",
         "price": ".15",
         "raw_text": "$SWBI is ready to run   $SWBI 13 CALL 2/20 @ .15"
+    },
+    {
+        "timestamp": "2026-02-04 10:54:19",
+        "ticker": "SWBI",
+        "strike": "13",
+        "type": "CALL",
+        "expiry": "2/20",
+        "price": ".15",
+        "raw_text": "100% POTENTIAL TRADE IDEA   $SWBI 13 CALL 2/20 @ .15"
+    },
+    {
+        "timestamp": "2026-02-04 10:54:20",
+        "ticker": "SWBI",
+        "strike": "13",
+        "type": "CALL",
+        "expiry": "2/20",
+        "price": ".15",
+        "raw_text": "IM IN HEAVY   $SWBI 13 CALL 2/20 @ .15"
     }
 ]
