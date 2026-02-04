@@ -1198,5 +1198,17 @@
         "buy_commission": 0.0,
         "message": "Insufficient funds (Buying Power: $4.85)",
         "timestamp": "2026-02-04 11:50:42"
+    },
+    {
+        "ticker": "QQQ",
+        "strike": 610.0,
+        "type": "C",
+        "expiry": "20260206",
+        "alert_price": 4.53,
+        "status": "SKIPPED",
+        "fill_price": 0.0,
+        "buy_commission": 0.0,
+        "message": "Insufficient funds (Buying Power: $4.85)",
+        "timestamp": "2026-02-04 12:04:26"
     }
 ]

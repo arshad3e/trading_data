@@ -439,5 +439,14 @@
         "expiry": "02/06",
         "price": "0.17",
         "raw_text": "$KVUE 18 CALL 02/06 @ 0.17   Let\u2019s get it!"
+    },
+    {
+        "timestamp": "2026-02-04 12:04:20",
+        "ticker": "QQQ",
+        "strike": "610",
+        "type": "CALL",
+        "expiry": "2/6",
+        "price": "4.53",
+        "raw_text": "$QQQ 2/6 610C @ 4.53 BWP"
     }
 ]
