@@ -403,5 +403,14 @@
         "expiry": "2/06",
         "price": ".15",
         "raw_text": "5X POTENTIAL   $ABR 7.5 Put 2/06 avg .15"
+    },
+    {
+        "timestamp": "2026-02-04 11:48:41",
+        "ticker": "EPD",
+        "strike": "35.5",
+        "type": "CALL",
+        "expiry": "2/6",
+        "price": "0.08",
+        "raw_text": "$EPD 35.5 Call 2/6 at 0.08"
     }
 ]
