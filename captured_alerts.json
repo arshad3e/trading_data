@@ -61,5 +61,23 @@
         "expiry": "02/04",
         "price": "0.33",
         "raw_text": "$TSLA 430c 02/04 at 0.33"
+    },
+    {
+        "timestamp": "2026-02-04 10:14:43",
+        "ticker": "PCG",
+        "strike": "16",
+        "type": "CALL",
+        "expiry": "2/06",
+        "price": ".09",
+        "raw_text": "7X POTENTIAL   $PCG 16 Call 2/06 avg .09"
+    },
+    {
+        "timestamp": "2026-02-04 10:14:43",
+        "ticker": "PCG",
+        "strike": "16",
+        "type": "CALL",
+        "expiry": "2/06",
+        "price": ".09",
+        "raw_text": "HIGH CONFIDENCE   $PCG 16 Call 2/06 avg .09"
     }
 ]
