@@ -421,5 +421,14 @@
         "expiry": "2/6",
         "price": "0.08",
         "raw_text": "Potential 2-3x setup   $EPD 35.5 Call 2/6 at 0.08"
+    },
+    {
+        "timestamp": "2026-02-04 11:49:42",
+        "ticker": "ABR",
+        "strike": "7.5",
+        "type": "PUT",
+        "expiry": "2/06",
+        "price": ".15",
+        "raw_text": "SHORTING    $ABR 7.5 Put 2/06 avg .15"
     }
 ]
