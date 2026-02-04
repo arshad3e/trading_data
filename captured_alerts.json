@@ -223,5 +223,14 @@
         "expiry": "2/20",
         "price": ".15",
         "raw_text": "IM IN HEAVY   $SWBI 13 CALL 2/20 @ .15"
+    },
+    {
+        "timestamp": "2026-02-04 11:15:00",
+        "ticker": "APT",
+        "strike": "5.5",
+        "type": "CALL",
+        "expiry": "2/06",
+        "price": ".15",
+        "raw_text": "HIGH CONFIDENCE   $APT 5.5 Call 2/06 avg .15"
     }
 ]
