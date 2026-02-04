@@ -259,5 +259,32 @@
         "expiry": "2/06",
         "price": ".15",
         "raw_text": "SHORT SQUEEZE   $APT 5.5 Call 2/06 avg .15"
+    },
+    {
+        "timestamp": "2026-02-04 11:17:22",
+        "ticker": "BULL",
+        "strike": "7",
+        "type": "CALL",
+        "expiry": "2/6",
+        "price": ".08",
+        "raw_text": "$BUll 7 CALL 2/6 @ .08"
+    },
+    {
+        "timestamp": "2026-02-04 11:17:22",
+        "ticker": "BULL",
+        "strike": "7",
+        "type": "CALL",
+        "expiry": "2/6",
+        "price": "0.08",
+        "raw_text": "$BULL 7 Call 2/6 at 0.08"
+    },
+    {
+        "timestamp": "2026-02-04 11:17:22",
+        "ticker": "APT",
+        "strike": "5.5",
+        "type": "CALL",
+        "expiry": "2/06",
+        "price": ".15",
+        "raw_text": "HIGH CONFIDENCE SQUEEZE  $APT 5.5 Call 2/06 avg .15"
     }
 ]
