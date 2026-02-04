@@ -250,5 +250,14 @@
         "expiry": "2/06",
         "price": ".15",
         "raw_text": "10X POTENTIAL   $APT 5.5 Call 2/06 avg .15"
+    },
+    {
+        "timestamp": "2026-02-04 11:16:26",
+        "ticker": "APT",
+        "strike": "5.5",
+        "type": "CALL",
+        "expiry": "2/06",
+        "price": ".15",
+        "raw_text": "SHORT SQUEEZE   $APT 5.5 Call 2/06 avg .15"
     }
 ]
