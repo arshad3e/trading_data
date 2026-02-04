@@ -412,5 +412,14 @@
         "expiry": "2/6",
         "price": "0.08",
         "raw_text": "$EPD 35.5 Call 2/6 at 0.08"
+    },
+    {
+        "timestamp": "2026-02-04 11:49:08",
+        "ticker": "EPD",
+        "strike": "35.5",
+        "type": "CALL",
+        "expiry": "2/6",
+        "price": "0.08",
+        "raw_text": "Potential 2-3x setup   $EPD 35.5 Call 2/6 at 0.08"
     }
 ]
