@@ -1042,5 +1042,17 @@
         "buy_commission": 0.0,
         "message": "Insufficient funds (Buying Power: $5.90)",
         "timestamp": "2026-02-04 10:33:09"
+    },
+    {
+        "ticker": "NLY",
+        "strike": 23.5,
+        "type": "C",
+        "expiry": "20260213",
+        "alert_price": 0.15,
+        "status": "SKIPPED",
+        "fill_price": 0.0,
+        "buy_commission": 0.0,
+        "message": "Insufficient funds (Buying Power: $5.90)",
+        "timestamp": "2026-02-04 10:34:25"
     }
 ]

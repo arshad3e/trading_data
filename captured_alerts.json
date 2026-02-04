@@ -160,5 +160,23 @@
         "expiry": "2/13",
         "price": ".14",
         "raw_text": "NEXT WEEK CONTRACTS   $NLY 23.5 Call 2/13 avg .14"
+    },
+    {
+        "timestamp": "2026-02-04 10:34:23",
+        "ticker": "NLY",
+        "strike": "23.5",
+        "type": "CALL",
+        "expiry": "2/13",
+        "price": ".15",
+        "raw_text": "$NLY 23.5 Call 2/13 avg .15"
+    },
+    {
+        "timestamp": "2026-02-04 10:34:23",
+        "ticker": "NLY",
+        "strike": "23.5",
+        "type": "CALL",
+        "expiry": "2/13",
+        "price": ".14",
+        "raw_text": "8X POTENTIAL   $NLY 23.5 Call 2/13 avg .14"
     }
 ]
