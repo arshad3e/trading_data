@@ -367,5 +367,14 @@
         "expiry": "2/20",
         "price": ".20",
         "raw_text": "$EPSN $5 CALL 2/20 @ .20"
+    },
+    {
+        "timestamp": "2026-02-04 11:34:59",
+        "ticker": "EPSN",
+        "strike": "5",
+        "type": "CALL",
+        "expiry": "2/20",
+        "price": ".20",
+        "raw_text": "FINAL TRADE IDEA A+  $EPSN $5 CALL 2/20 @ .20"
     }
 ]
