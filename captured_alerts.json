@@ -331,5 +331,23 @@
         "expiry": "2/6",
         "price": "0.08",
         "raw_text": "HIGH CONFIDENCE   $BULL 7 Call 2/6 at 0.08"
+    },
+    {
+        "timestamp": "2026-02-04 11:19:09",
+        "ticker": "BULL",
+        "strike": "7",
+        "type": "CALL",
+        "expiry": "2/6",
+        "price": "0.07",
+        "raw_text": "$BULL 7 Call 2/6 at 0.07 (full avg)"
+    },
+    {
+        "timestamp": "2026-02-04 11:19:09",
+        "ticker": "BULL",
+        "strike": "7",
+        "type": "CALL",
+        "expiry": "2/6",
+        "price": ".07",
+        "raw_text": "$BUll 7 CALL 2/6 @ .07"
     }
 ]
