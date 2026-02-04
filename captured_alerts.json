@@ -43,5 +43,14 @@
         "expiry": "2/4",
         "price": "2.00",
         "raw_text": "$SPX 2/4 6980C @ 2.00 BWP"
+    },
+    {
+        "timestamp": "2026-02-04 09:40:59",
+        "ticker": "MPT",
+        "strike": "5.5",
+        "type": "CALL",
+        "expiry": "2/13",
+        "price": ".08",
+        "raw_text": "NEXT WEEK CONTRACTS   $MPT 5.5 Call 2/13 avg .08"
     }
 ]
