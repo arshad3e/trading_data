@@ -1054,5 +1054,17 @@
         "buy_commission": 0.0,
         "message": "Insufficient funds (Buying Power: $5.90)",
         "timestamp": "2026-02-04 10:34:25"
+    },
+    {
+        "ticker": "SWBI",
+        "strike": 13.0,
+        "type": "C",
+        "expiry": "20260220",
+        "alert_price": 0.15,
+        "status": "SKIPPED",
+        "fill_price": 0.0,
+        "buy_commission": 0.0,
+        "message": "Insufficient funds (Buying Power: $5.90)",
+        "timestamp": "2026-02-04 10:50:56"
     }
 ]

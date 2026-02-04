@@ -178,5 +178,14 @@
         "expiry": "2/13",
         "price": ".14",
         "raw_text": "8X POTENTIAL   $NLY 23.5 Call 2/13 avg .14"
+    },
+    {
+        "timestamp": "2026-02-04 10:50:53",
+        "ticker": "SWBI",
+        "strike": "13",
+        "type": "CALL",
+        "expiry": "2/20",
+        "price": ".15",
+        "raw_text": "$SWBI 13 CALL 2/20 @ .15"
     }
 ]
