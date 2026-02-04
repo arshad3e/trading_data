@@ -52,5 +52,14 @@
         "expiry": "2/13",
         "price": ".08",
         "raw_text": "NEXT WEEK CONTRACTS   $MPT 5.5 Call 2/13 avg .08"
+    },
+    {
+        "timestamp": "2026-02-04 10:05:48",
+        "ticker": "TSLA",
+        "strike": "430",
+        "type": "CALL",
+        "expiry": "02/04",
+        "price": "0.33",
+        "raw_text": "$TSLA 430c 02/04 at 0.33"
     }
 ]

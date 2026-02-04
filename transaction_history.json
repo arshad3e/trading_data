@@ -958,5 +958,17 @@
         "buy_commission": 0.0,
         "message": "EXIT TRIGGERED: Sold 1.0 PCG   260206C00015500 @ $0.22",
         "timestamp": "2026-02-04 09:47:16"
+    },
+    {
+        "ticker": "TSLA",
+        "strike": 430.0,
+        "type": "C",
+        "expiry": "20260204",
+        "alert_price": 0.33,
+        "status": "SKIPPED",
+        "fill_price": 0.0,
+        "buy_commission": 0.0,
+        "message": "Insufficient funds (Buying Power: $27.00)",
+        "timestamp": "2026-02-04 10:05:49"
     }
 ]
