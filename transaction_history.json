@@ -1102,5 +1102,17 @@
         "buy_commission": 0.0,
         "message": "Insufficient funds (Buying Power: $5.90)",
         "timestamp": "2026-02-04 11:17:26"
+    },
+    {
+        "ticker": "APT",
+        "strike": 5.5,
+        "type": "C",
+        "expiry": "20260206",
+        "alert_price": 0.2,
+        "status": "SKIPPED",
+        "fill_price": 0.0,
+        "buy_commission": 0.0,
+        "message": "Insufficient funds (Buying Power: $5.90)",
+        "timestamp": "2026-02-04 11:18:02"
     }
 ]
