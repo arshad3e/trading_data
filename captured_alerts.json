@@ -385,5 +385,23 @@
         "expiry": "2/06",
         "price": ".15",
         "raw_text": "HIGH CONFIDENCE   $ABR 7.5 Put 2/06 avg .15"
+    },
+    {
+        "timestamp": "2026-02-04 11:47:15",
+        "ticker": "ABR",
+        "strike": "7.5",
+        "type": "PUT",
+        "expiry": "2/06",
+        "price": ".15",
+        "raw_text": "PUTS PLAY   $ABR 7.5 Put 2/06 avg .15"
+    },
+    {
+        "timestamp": "2026-02-04 11:47:16",
+        "ticker": "ABR",
+        "strike": "7.5",
+        "type": "PUT",
+        "expiry": "2/06",
+        "price": ".15",
+        "raw_text": "5X POTENTIAL   $ABR 7.5 Put 2/06 avg .15"
     }
 ]
