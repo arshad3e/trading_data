@@ -79,5 +79,14 @@
         "expiry": "2/06",
         "price": ".09",
         "raw_text": "HIGH CONFIDENCE   $PCG 16 Call 2/06 avg .09"
+    },
+    {
+        "timestamp": "2026-02-04 10:22:18",
+        "ticker": "SPX",
+        "strike": "6950",
+        "type": "CALL",
+        "expiry": "02/04",
+        "price": "5.10",
+        "raw_text": "Added 100 $SPX 6950c 02/04 at 5.10"
     }
 ]
