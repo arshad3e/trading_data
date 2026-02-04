@@ -1222,5 +1222,17 @@
         "buy_commission": 0.0,
         "message": "EXIT TRIGGERED: Sold 1.0 MPT   260213C00005500 @ $0.05",
         "timestamp": "2026-02-04 12:40:06"
+    },
+    {
+        "ticker": "RIG",
+        "strike": 5.5,
+        "type": "C",
+        "expiry": "20260213",
+        "alert_price": 0.0,
+        "status": "EXIT_FILLED",
+        "fill_price": 0.13,
+        "buy_commission": 0.0,
+        "message": "EXIT TRIGGERED: Sold 1.0 RIG   260213C00005500 @ $0.13",
+        "timestamp": "2026-02-04 14:36:22"
     }
 ]
