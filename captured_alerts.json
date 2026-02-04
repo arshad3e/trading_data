@@ -349,5 +349,14 @@
         "expiry": "2/6",
         "price": ".07",
         "raw_text": "$BUll 7 CALL 2/6 @ .07"
+    },
+    {
+        "timestamp": "2026-02-04 11:20:01",
+        "ticker": "APT",
+        "strike": "5.5",
+        "type": "CALL",
+        "expiry": "2/06",
+        "price": ".20",
+        "raw_text": "FAST ALERT  $APT 5.5 Call 2/06 avg .20"
     }
 ]
