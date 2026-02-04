@@ -88,5 +88,14 @@
         "expiry": "02/04",
         "price": "5.10",
         "raw_text": "Added 100 $SPX 6950c 02/04 at 5.10"
+    },
+    {
+        "timestamp": "2026-02-04 10:24:32",
+        "ticker": "RIG",
+        "strike": "5.5",
+        "type": "CALL",
+        "expiry": "2/13",
+        "price": ".09",
+        "raw_text": "$RIG 5.5 CALL 2/13 @ .09"
     }
 ]
