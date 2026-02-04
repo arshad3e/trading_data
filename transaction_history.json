@@ -994,5 +994,41 @@
         "buy_commission": 0.0,
         "message": "Insufficient funds (Buying Power: $16.95)",
         "timestamp": "2026-02-04 10:22:19"
+    },
+    {
+        "ticker": "RIG",
+        "strike": 5.5,
+        "type": "C",
+        "expiry": "20260213",
+        "alert_price": 0.09,
+        "status": "ENTRY_FILLED",
+        "fill_price": 0.1,
+        "buy_commission": 1.04875,
+        "message": "Filled @ 0.1. OCA Bracket (OCA_4166_RIG) Placed: TP $0.13 / SL $0.07",
+        "timestamp": "2026-02-04 10:25:06"
+    },
+    {
+        "ticker": "RIG",
+        "strike": 5.5,
+        "type": "C",
+        "expiry": "20260213",
+        "alert_price": 0.1,
+        "status": "SKIPPED",
+        "fill_price": 0.0,
+        "buy_commission": 0.0,
+        "message": "Position already exists for RIG   260213C00005500",
+        "timestamp": "2026-02-04 10:25:11"
+    },
+    {
+        "ticker": "RIG",
+        "strike": 5.5,
+        "type": "C",
+        "expiry": "20260213",
+        "alert_price": 0.1,
+        "status": "SKIPPED",
+        "fill_price": 0.0,
+        "buy_commission": 0.0,
+        "message": "Position already exists for RIG   260213C00005500",
+        "timestamp": "2026-02-04 10:25:12"
     }
 ]

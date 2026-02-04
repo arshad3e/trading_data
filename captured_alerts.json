@@ -97,5 +97,50 @@
         "expiry": "2/13",
         "price": ".09",
         "raw_text": "$RIG 5.5 CALL 2/13 @ .09"
+    },
+    {
+        "timestamp": "2026-02-04 10:25:09",
+        "ticker": "RIG",
+        "strike": "5.5",
+        "type": "CALL",
+        "expiry": "2/13",
+        "price": ".10",
+        "raw_text": "$RIG SHORT SQUEEZE POTENTIAL   $RIG 5.5 CALL 2/13 @ .10"
+    },
+    {
+        "timestamp": "2026-02-04 10:25:09",
+        "ticker": "RIG",
+        "strike": "5.5",
+        "type": "CALL",
+        "expiry": "2/13",
+        "price": "0.10",
+        "raw_text": "SHORT SQUEEZE   $RIG 5.5 Call 2/13 at 0.10"
+    },
+    {
+        "timestamp": "2026-02-04 10:25:09",
+        "ticker": "RIG",
+        "strike": "5.5",
+        "type": "CALL",
+        "expiry": "2/13",
+        "price": ".10",
+        "raw_text": "HIGH CONFIDENCE   $RIG 5.5 CALL 2/13 @ .10"
+    },
+    {
+        "timestamp": "2026-02-04 10:25:10",
+        "ticker": "RIG",
+        "strike": "5.5",
+        "type": "CALL",
+        "expiry": "2/13",
+        "price": "0.10",
+        "raw_text": "$RIG 5.5 Call 2/13 at 0.10"
+    },
+    {
+        "timestamp": "2026-02-04 10:25:10",
+        "ticker": "RIG",
+        "strike": "5.5",
+        "type": "CALL",
+        "expiry": "2/13",
+        "price": ".10",
+        "raw_text": "$RIG NEXT WEEKS   $RIG 5.5 CALL 2/13 @ .10"
     }
 ]
