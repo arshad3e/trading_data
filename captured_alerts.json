@@ -52,5 +52,14 @@
         "expiry": "2/20",
         "price": ".15",
         "raw_text": "SHORT SQUEEZE   $BGS 5 Call 2/20 avg .15"
+    },
+    {
+        "timestamp": "2026-02-05 09:46:44",
+        "ticker": "MU",
+        "strike": "400",
+        "type": "CALL",
+        "expiry": "2/6",
+        "price": "6.15",
+        "raw_text": "$MU 2/6 400C @ 6.15 BWP"
     }
 ]

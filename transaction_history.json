@@ -1330,5 +1330,17 @@
         "buy_commission": 0.0,
         "message": "Position already exists for BGS   260220C00005000",
         "timestamp": "2026-02-05 09:40:33"
+    },
+    {
+        "ticker": "MU",
+        "strike": 400.0,
+        "type": "C",
+        "expiry": "20260206",
+        "alert_price": 6.15,
+        "status": "SKIPPED",
+        "fill_price": 0.0,
+        "buy_commission": 0.0,
+        "message": "Insufficient funds (Buying Power: $23.07)",
+        "timestamp": "2026-02-05 09:46:49"
     }
 ]
