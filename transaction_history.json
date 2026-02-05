@@ -1414,5 +1414,17 @@
         "buy_commission": 0.0,
         "message": "Position already exists for FUBO  260213C00002000",
         "timestamp": "2026-02-05 10:25:47"
+    },
+    {
+        "ticker": "PEP",
+        "strike": 175.0,
+        "type": "C",
+        "expiry": "20260213",
+        "alert_price": 0.5,
+        "status": "SKIPPED",
+        "fill_price": 0.0,
+        "buy_commission": 0.0,
+        "message": "Insufficient funds (Buying Power: $17.50)",
+        "timestamp": "2026-02-05 10:47:25"
     }
 ]

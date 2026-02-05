@@ -160,5 +160,14 @@
         "expiry": "2/13",
         "price": "0.05",
         "raw_text": "POTENTIAL 3-5x SETUP   $FUBO 2 Call 2/13 at 0.05"
+    },
+    {
+        "timestamp": "2026-02-05 10:47:20",
+        "ticker": "PEP",
+        "strike": "175",
+        "type": "CALL",
+        "expiry": "2/13",
+        "price": ".50",
+        "raw_text": "NEXT WEEK CONTRACTS   $PEP 175 Call 2/13 avg .50"
     }
 ]
