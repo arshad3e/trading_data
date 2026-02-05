@@ -1498,5 +1498,17 @@
         "buy_commission": 0.0,
         "message": "Insufficient funds (Buying Power: $7.36)",
         "timestamp": "2026-02-05 11:36:07"
+    },
+    {
+        "ticker": "KMI",
+        "strike": 30.5,
+        "type": "C",
+        "expiry": "20260206",
+        "alert_price": 0.18,
+        "status": "SKIPPED",
+        "fill_price": 0.0,
+        "buy_commission": 0.0,
+        "message": "Insufficient funds (Buying Power: $7.36)",
+        "timestamp": "2026-02-05 12:42:09"
     }
 ]

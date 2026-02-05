@@ -286,5 +286,14 @@
         "expiry": "2/06",
         "price": ".09",
         "raw_text": "UNDERVALUED CONTRACTS   $SAVA 2 Call 2/06 avg .09"
+    },
+    {
+        "timestamp": "2026-02-05 12:42:03",
+        "ticker": "KMI",
+        "strike": "30.5",
+        "type": "CALL",
+        "expiry": "02/06",
+        "price": "0.18",
+        "raw_text": "$KMI 30.5 CALL 02/06 @ 0.18  Lets get it!"
     }
 ]
