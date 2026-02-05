@@ -142,5 +142,23 @@
         "expiry": "2/13",
         "price": ".05",
         "raw_text": "HIGH CONFIDENCE   $FUBO 2 CALL  2/13 @ .05"
+    },
+    {
+        "timestamp": "2026-02-05 10:26:15",
+        "ticker": "FUBO",
+        "strike": "2",
+        "type": "CALL",
+        "expiry": "2/13",
+        "price": ".05",
+        "raw_text": "$FUBO $2 CALL  2/13 @ .05"
+    },
+    {
+        "timestamp": "2026-02-05 10:26:15",
+        "ticker": "FUBO",
+        "strike": "2",
+        "type": "CALL",
+        "expiry": "2/13",
+        "price": "0.05",
+        "raw_text": "POTENTIAL 3-5x SETUP   $FUBO 2 Call 2/13 at 0.05"
     }
 ]
