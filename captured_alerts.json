@@ -1,74 +1,20 @@
 [
     {
-        "timestamp": "2026-02-05 09:40:13",
-        "ticker": "BGS",
-        "strike": "5",
+        "timestamp": "2026-02-05 09:59:49",
+        "ticker": "WEN",
+        "strike": "8.5",
         "type": "CALL",
-        "expiry": "2/20",
-        "price": ".20",
-        "raw_text": "SHORT SQUEEZE   $BGS 5 Call 2/20 avg .20"
+        "expiry": "2/13",
+        "price": ".25",
+        "raw_text": "$WEN NEXT WEEK CALLS   $WEN 8.5 CALL 2/13 @ .25"
     },
     {
-        "timestamp": "2026-02-05 09:40:14",
-        "ticker": "BGS",
-        "strike": "5",
+        "timestamp": "2026-02-05 09:59:49",
+        "ticker": "WEN",
+        "strike": "8.5",
         "type": "CALL",
-        "expiry": "2/20",
-        "price": ".20",
-        "raw_text": "SWING TRADE   $BGS 5 Call 2/20 avg .20"
-    },
-    {
-        "timestamp": "2026-02-05 09:40:14",
-        "ticker": "SPX",
-        "strike": "6930",
-        "type": "CALL",
-        "expiry": "2/5",
-        "price": "3.20",
-        "raw_text": "$SPX 2/5 6930C @ 3.20 BWP"
-    },
-    {
-        "timestamp": "2026-02-05 09:40:14",
-        "ticker": "BGS",
-        "strike": "5",
-        "type": "CALL",
-        "expiry": "2/20",
-        "price": ".15",
-        "raw_text": "10X POTENTIAL   $BGS 5 Call 2/20 avg .15"
-    },
-    {
-        "timestamp": "2026-02-05 09:40:14",
-        "ticker": "BGS",
-        "strike": "5",
-        "type": "CALL",
-        "expiry": "2/20",
-        "price": ".15",
-        "raw_text": "HIGH CONFIDENCE   $BGS 5 Call 2/20 avg .15"
-    },
-    {
-        "timestamp": "2026-02-05 09:41:49",
-        "ticker": "BGS",
-        "strike": "5",
-        "type": "CALL",
-        "expiry": "2/20",
-        "price": ".15",
-        "raw_text": "SHORT SQUEEZE   $BGS 5 Call 2/20 avg .15"
-    },
-    {
-        "timestamp": "2026-02-05 09:46:44",
-        "ticker": "MU",
-        "strike": "400",
-        "type": "CALL",
-        "expiry": "2/6",
-        "price": "6.15",
-        "raw_text": "$MU 2/6 400C @ 6.15 BWP"
-    },
-    {
-        "timestamp": "2026-02-05 09:47:36",
-        "ticker": "RBLX",
-        "strike": "90",
-        "type": "CALL",
-        "expiry": "02/20",
-        "price": "0.57",
-        "raw_text": "$RBLX 90c 02/20 at 0.57"
+        "expiry": "2/13",
+        "price": ".25",
+        "raw_text": "$WEN 8.5 CALL 2/13 @ .25"
     }
 ]
