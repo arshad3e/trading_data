@@ -277,5 +277,14 @@
         "expiry": "2/06",
         "price": ".09",
         "raw_text": "HIGH CONFIDENCE   $SAVA 2 Call 2/06 avg .09"
+    },
+    {
+        "timestamp": "2026-02-05 11:36:51",
+        "ticker": "SAVA",
+        "strike": "2",
+        "type": "CALL",
+        "expiry": "2/06",
+        "price": ".09",
+        "raw_text": "UNDERVALUED CONTRACTS   $SAVA 2 Call 2/06 avg .09"
     }
 ]
