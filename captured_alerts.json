@@ -313,5 +313,14 @@
         "expiry": "2/06",
         "price": "0.56",
         "raw_text": "$XYZ 53 PUT 2/06 @ 0.56"
+    },
+    {
+        "timestamp": "2026-02-05 15:19:11",
+        "ticker": "KHC",
+        "strike": "24.5",
+        "type": "CALL",
+        "expiry": "02/06",
+        "price": "0.20",
+        "raw_text": "$KHC 24.5 CALL 02/06 @ 0.20 Let\u2019s get it!"
     }
 ]
