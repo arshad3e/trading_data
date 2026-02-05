@@ -1522,5 +1522,17 @@
         "buy_commission": 0.0,
         "message": "Insufficient funds (Buying Power: $7.36)",
         "timestamp": "2026-02-05 12:45:00"
+    },
+    {
+        "ticker": "XYZ",
+        "strike": 53.0,
+        "type": "P",
+        "expiry": "20260206",
+        "alert_price": 0.56,
+        "status": "SKIPPED",
+        "fill_price": 0.0,
+        "buy_commission": 0.0,
+        "message": "Insufficient funds (Buying Power: $7.36)",
+        "timestamp": "2026-02-05 13:35:20"
     }
 ]

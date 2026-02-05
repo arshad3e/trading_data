@@ -304,5 +304,14 @@
         "expiry": "02/06",
         "price": "0.15",
         "raw_text": "$KMI 30.5 CALL 02/06 @ 0.15  Correct price here.  I want to see 30.55"
+    },
+    {
+        "timestamp": "2026-02-05 13:35:18",
+        "ticker": "XYZ",
+        "strike": "53",
+        "type": "PUT",
+        "expiry": "2/06",
+        "price": "0.56",
+        "raw_text": "$XYZ 53 PUT 2/06 @ 0.56"
     }
 ]
