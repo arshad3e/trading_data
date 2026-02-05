@@ -1438,5 +1438,29 @@
         "buy_commission": 0.0,
         "message": "Insufficient funds (Buying Power: $17.50)",
         "timestamp": "2026-02-05 10:48:31"
+    },
+    {
+        "ticker": "RILY",
+        "strike": 8.0,
+        "type": "C",
+        "expiry": "20260206",
+        "alert_price": 0.14,
+        "status": "SKIPPED",
+        "fill_price": 0.0,
+        "buy_commission": 0.0,
+        "message": "Insufficient funds (Buying Power: $17.50)",
+        "timestamp": "2026-02-05 10:48:51"
+    },
+    {
+        "ticker": "RILY",
+        "strike": 8.0,
+        "type": "C",
+        "expiry": "20260206",
+        "alert_price": 0.14,
+        "status": "SKIPPED",
+        "fill_price": 0.0,
+        "buy_commission": 0.0,
+        "message": "Insufficient funds (Buying Power: $17.50)",
+        "timestamp": "2026-02-05 10:48:52"
     }
 ]

@@ -205,5 +205,32 @@
         "expiry": "2/6",
         "price": ".13",
         "raw_text": "$RILY 8 CALL 2/6 @ .13"
+    },
+    {
+        "timestamp": "2026-02-05 10:48:49",
+        "ticker": "RILY",
+        "strike": "8",
+        "type": "CALL",
+        "expiry": "2/6",
+        "price": ".14",
+        "raw_text": "$RILY 8 CALL 2/6 @ .14"
+    },
+    {
+        "timestamp": "2026-02-05 10:48:49",
+        "ticker": "RILY",
+        "strike": "8",
+        "type": "CALL",
+        "expiry": "2/6",
+        "price": "0.14",
+        "raw_text": "Short Squeeze Setup   $RILY 8 Call 2/6 at 0.14"
+    },
+    {
+        "timestamp": "2026-02-05 10:48:49",
+        "ticker": "RILY",
+        "strike": "8",
+        "type": "CALL",
+        "expiry": "2/6",
+        "price": "0.14",
+        "raw_text": "$RILY 8 Call 2/6 at 0.14"
     }
 ]
