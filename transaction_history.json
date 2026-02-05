@@ -1390,5 +1390,29 @@
         "buy_commission": 0.0,
         "message": "Insufficient funds (Buying Power: $23.07)",
         "timestamp": "2026-02-05 10:02:34"
+    },
+    {
+        "ticker": "FUBO",
+        "strike": 2.0,
+        "type": "C",
+        "expiry": "20260213",
+        "alert_price": 0.05,
+        "status": "ENTRY_FILLED",
+        "fill_price": 0.05,
+        "buy_commission": 0.56875,
+        "message": "Filled @ 0.05. OCA Bracket (OCA_7404_FUBO) Placed: TP $0.07 / SL $0.04",
+        "timestamp": "2026-02-05 10:25:47"
+    },
+    {
+        "ticker": "FUBO",
+        "strike": 2.0,
+        "type": "C",
+        "expiry": "20260213",
+        "alert_price": 0.05,
+        "status": "SKIPPED",
+        "fill_price": 0.0,
+        "buy_commission": 0.0,
+        "message": "Position already exists for FUBO  260213C00002000",
+        "timestamp": "2026-02-05 10:25:47"
     }
 ]
