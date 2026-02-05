@@ -250,5 +250,14 @@
         "expiry": "2/06",
         "price": ".08",
         "raw_text": "HIGH CONFIDENCE   $NLY 23.5 Call 2/06 avg .08"
+    },
+    {
+        "timestamp": "2026-02-05 11:13:38",
+        "ticker": "NLY",
+        "strike": "23.5",
+        "type": "CALL",
+        "expiry": "2/06",
+        "price": ".08",
+        "raw_text": "FAST ALERT   $NLY 23.5 Call 2/06 avg .08"
     }
 ]
