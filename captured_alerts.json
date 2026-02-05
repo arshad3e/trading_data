@@ -97,5 +97,23 @@
         "expiry": "2/20",
         "price": ".20",
         "raw_text": "SHORT SQUEEZEE   $AMBP 5 Call 2/20 avg .20"
+    },
+    {
+        "timestamp": "2026-02-05 10:25:28",
+        "ticker": "FUBO",
+        "strike": "2",
+        "type": "CALL",
+        "expiry": "2/13",
+        "price": "0.05",
+        "raw_text": "$FUBO 2 Call 2/13 at 0.05"
+    },
+    {
+        "timestamp": "2026-02-05 10:25:28",
+        "ticker": "FUBO",
+        "strike": "2",
+        "type": "CALL",
+        "expiry": "2/13",
+        "price": ".05",
+        "raw_text": "$FUBO 2 CALL  2/13 @ .05"
     }
 ]
