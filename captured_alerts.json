@@ -25,5 +25,50 @@
         "expiry": "2/13",
         "price": ".25",
         "raw_text": "HIGH CONFIDENCE   $WEN 8.5 CALL 2/13 @ .25"
+    },
+    {
+        "timestamp": "2026-02-05 10:02:31",
+        "ticker": "AMBP",
+        "strike": "5",
+        "type": "CALL",
+        "expiry": "2/20",
+        "price": ".20",
+        "raw_text": "HIGH CONFIDENCE   $AMBP 5 Call 2/20 avg .20"
+    },
+    {
+        "timestamp": "2026-02-05 10:02:31",
+        "ticker": "WEN",
+        "strike": "8.5",
+        "type": "CALL",
+        "expiry": "2/13",
+        "price": "0.25",
+        "raw_text": "High Confidence   $WEN 8.5 Call 2/13 at 0.25"
+    },
+    {
+        "timestamp": "2026-02-05 10:02:31",
+        "ticker": "WEN",
+        "strike": "8.5",
+        "type": "CALL",
+        "expiry": "2/13",
+        "price": "0.25",
+        "raw_text": "$WEN 8.5 Call 2/13 at 0.25"
+    },
+    {
+        "timestamp": "2026-02-05 10:02:55",
+        "ticker": "WEN",
+        "strike": "8.5",
+        "type": "CALL",
+        "expiry": "2/13",
+        "price": "0.25",
+        "raw_text": "Round 2   $WEN 8.5 Call 2/13 at 0.25"
+    },
+    {
+        "timestamp": "2026-02-05 10:02:55",
+        "ticker": "AMBP",
+        "strike": "5",
+        "type": "CALL",
+        "expiry": "2/20",
+        "price": ".20",
+        "raw_text": "SHORT SQUEEZE   $AMBP 5 Call 2/20 avg .20"
     }
 ]
