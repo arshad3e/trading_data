@@ -1,452 +1,47 @@
 [
     {
-        "timestamp": "2026-02-04 09:35:17",
-        "ticker": "MPT",
-        "strike": "5.5",
-        "type": "CALL",
-        "expiry": "2/06",
-        "price": ".04",
-        "raw_text": "HIGH CONFIDENCE   $MPT 5.5 Call 2/06 avg .04"
-    },
-    {
-        "timestamp": "2026-02-04 09:36:05",
-        "ticker": "MPT",
-        "strike": "5.5",
-        "type": "CALL",
-        "expiry": "2/06",
-        "price": ".04",
-        "raw_text": "SHORTING SQUEEZE   $MPT 5.5 Call 2/06 avg .04"
-    },
-    {
-        "timestamp": "2026-02-04 09:36:05",
-        "ticker": "MPT",
-        "strike": "5.5",
-        "type": "CALL",
-        "expiry": "2/06",
-        "price": ".04",
-        "raw_text": "10X POTENTIAL   $MPT 5.5 Call 2/06 avg .04"
-    },
-    {
-        "timestamp": "2026-02-04 09:37:39",
-        "ticker": "MPT",
-        "strike": "5.5",
-        "type": "CALL",
-        "expiry": "2/06",
-        "price": ".04",
-        "raw_text": "$MPT 5.5 Call 2/06 avg .04"
-    },
-    {
-        "timestamp": "2026-02-04 09:38:30",
-        "ticker": "SPX",
-        "strike": "6980",
-        "type": "CALL",
-        "expiry": "2/4",
-        "price": "2.00",
-        "raw_text": "$SPX 2/4 6980C @ 2.00 BWP"
-    },
-    {
-        "timestamp": "2026-02-04 09:40:59",
-        "ticker": "MPT",
-        "strike": "5.5",
-        "type": "CALL",
-        "expiry": "2/13",
-        "price": ".08",
-        "raw_text": "NEXT WEEK CONTRACTS   $MPT 5.5 Call 2/13 avg .08"
-    },
-    {
-        "timestamp": "2026-02-04 10:05:48",
-        "ticker": "TSLA",
-        "strike": "430",
-        "type": "CALL",
-        "expiry": "02/04",
-        "price": "0.33",
-        "raw_text": "$TSLA 430c 02/04 at 0.33"
-    },
-    {
-        "timestamp": "2026-02-04 10:14:43",
-        "ticker": "PCG",
-        "strike": "16",
-        "type": "CALL",
-        "expiry": "2/06",
-        "price": ".09",
-        "raw_text": "7X POTENTIAL   $PCG 16 Call 2/06 avg .09"
-    },
-    {
-        "timestamp": "2026-02-04 10:14:43",
-        "ticker": "PCG",
-        "strike": "16",
-        "type": "CALL",
-        "expiry": "2/06",
-        "price": ".09",
-        "raw_text": "HIGH CONFIDENCE   $PCG 16 Call 2/06 avg .09"
-    },
-    {
-        "timestamp": "2026-02-04 10:22:18",
-        "ticker": "SPX",
-        "strike": "6950",
-        "type": "CALL",
-        "expiry": "02/04",
-        "price": "5.10",
-        "raw_text": "Added 100 $SPX 6950c 02/04 at 5.10"
-    },
-    {
-        "timestamp": "2026-02-04 10:24:32",
-        "ticker": "RIG",
-        "strike": "5.5",
-        "type": "CALL",
-        "expiry": "2/13",
-        "price": ".09",
-        "raw_text": "$RIG 5.5 CALL 2/13 @ .09"
-    },
-    {
-        "timestamp": "2026-02-04 10:25:09",
-        "ticker": "RIG",
-        "strike": "5.5",
-        "type": "CALL",
-        "expiry": "2/13",
-        "price": ".10",
-        "raw_text": "$RIG SHORT SQUEEZE POTENTIAL   $RIG 5.5 CALL 2/13 @ .10"
-    },
-    {
-        "timestamp": "2026-02-04 10:25:09",
-        "ticker": "RIG",
-        "strike": "5.5",
-        "type": "CALL",
-        "expiry": "2/13",
-        "price": "0.10",
-        "raw_text": "SHORT SQUEEZE   $RIG 5.5 Call 2/13 at 0.10"
-    },
-    {
-        "timestamp": "2026-02-04 10:25:09",
-        "ticker": "RIG",
-        "strike": "5.5",
-        "type": "CALL",
-        "expiry": "2/13",
-        "price": ".10",
-        "raw_text": "HIGH CONFIDENCE   $RIG 5.5 CALL 2/13 @ .10"
-    },
-    {
-        "timestamp": "2026-02-04 10:25:10",
-        "ticker": "RIG",
-        "strike": "5.5",
-        "type": "CALL",
-        "expiry": "2/13",
-        "price": "0.10",
-        "raw_text": "$RIG 5.5 Call 2/13 at 0.10"
-    },
-    {
-        "timestamp": "2026-02-04 10:25:10",
-        "ticker": "RIG",
-        "strike": "5.5",
-        "type": "CALL",
-        "expiry": "2/13",
-        "price": ".10",
-        "raw_text": "$RIG NEXT WEEKS   $RIG 5.5 CALL 2/13 @ .10"
-    },
-    {
-        "timestamp": "2026-02-04 10:33:08",
-        "ticker": "NLY",
-        "strike": "23.5",
-        "type": "CALL",
-        "expiry": "2/13",
-        "price": ".14",
-        "raw_text": "SHORT SQUEEZE SWING  $NLY 23.5 Call 2/13 avg .14"
-    },
-    {
-        "timestamp": "2026-02-04 10:33:08",
-        "ticker": "NLY",
-        "strike": "23.5",
-        "type": "CALL",
-        "expiry": "2/13",
-        "price": ".14",
-        "raw_text": "NEXT WEEK CONTRACTS   $NLY 23.5 Call 2/13 avg .14"
-    },
-    {
-        "timestamp": "2026-02-04 10:34:23",
-        "ticker": "NLY",
-        "strike": "23.5",
-        "type": "CALL",
-        "expiry": "2/13",
-        "price": ".15",
-        "raw_text": "$NLY 23.5 Call 2/13 avg .15"
-    },
-    {
-        "timestamp": "2026-02-04 10:34:23",
-        "ticker": "NLY",
-        "strike": "23.5",
-        "type": "CALL",
-        "expiry": "2/13",
-        "price": ".14",
-        "raw_text": "8X POTENTIAL   $NLY 23.5 Call 2/13 avg .14"
-    },
-    {
-        "timestamp": "2026-02-04 10:50:53",
-        "ticker": "SWBI",
-        "strike": "13",
-        "type": "CALL",
-        "expiry": "2/20",
-        "price": ".15",
-        "raw_text": "$SWBI 13 CALL 2/20 @ .15"
-    },
-    {
-        "timestamp": "2026-02-04 10:51:18",
-        "ticker": "SWBI",
-        "strike": "13",
-        "type": "CALL",
-        "expiry": "2/20",
-        "price": ".15",
-        "raw_text": "HIGH CONFIDENCE   $SWBI 13 CALL 2/20 @ .15"
-    },
-    {
-        "timestamp": "2026-02-04 10:53:48",
-        "ticker": "SWBI",
-        "strike": "13",
-        "type": "CALL",
-        "expiry": "2/20",
-        "price": ".15",
-        "raw_text": "$SWBI is ready to run   $SWBI 13 CALL 2/20 @ .15"
-    },
-    {
-        "timestamp": "2026-02-04 10:54:19",
-        "ticker": "SWBI",
-        "strike": "13",
-        "type": "CALL",
-        "expiry": "2/20",
-        "price": ".15",
-        "raw_text": "100% POTENTIAL TRADE IDEA   $SWBI 13 CALL 2/20 @ .15"
-    },
-    {
-        "timestamp": "2026-02-04 10:54:20",
-        "ticker": "SWBI",
-        "strike": "13",
-        "type": "CALL",
-        "expiry": "2/20",
-        "price": ".15",
-        "raw_text": "IM IN HEAVY   $SWBI 13 CALL 2/20 @ .15"
-    },
-    {
-        "timestamp": "2026-02-04 11:15:00",
-        "ticker": "APT",
-        "strike": "5.5",
-        "type": "CALL",
-        "expiry": "2/06",
-        "price": ".15",
-        "raw_text": "HIGH CONFIDENCE   $APT 5.5 Call 2/06 avg .15"
-    },
-    {
-        "timestamp": "2026-02-04 11:15:28",
-        "ticker": "APT",
-        "strike": "5.5",
-        "type": "CALL",
-        "expiry": "2/06",
-        "price": ".15",
-        "raw_text": "MASSIVE SQUEEZE   $APT 5.5 Call 2/06 avg .15"
-    },
-    {
-        "timestamp": "2026-02-04 11:15:59",
-        "ticker": "APT",
-        "strike": "5.5",
-        "type": "CALL",
-        "expiry": "2/06",
-        "price": ".15",
-        "raw_text": "10X POTENTIAL   $APT 5.5 Call 2/06 avg .15"
-    },
-    {
-        "timestamp": "2026-02-04 11:16:26",
-        "ticker": "APT",
-        "strike": "5.5",
-        "type": "CALL",
-        "expiry": "2/06",
-        "price": ".15",
-        "raw_text": "SHORT SQUEEZE   $APT 5.5 Call 2/06 avg .15"
-    },
-    {
-        "timestamp": "2026-02-04 11:17:22",
-        "ticker": "BULL",
-        "strike": "7",
-        "type": "CALL",
-        "expiry": "2/6",
-        "price": ".08",
-        "raw_text": "$BUll 7 CALL 2/6 @ .08"
-    },
-    {
-        "timestamp": "2026-02-04 11:17:22",
-        "ticker": "BULL",
-        "strike": "7",
-        "type": "CALL",
-        "expiry": "2/6",
-        "price": "0.08",
-        "raw_text": "$BULL 7 Call 2/6 at 0.08"
-    },
-    {
-        "timestamp": "2026-02-04 11:17:22",
-        "ticker": "APT",
-        "strike": "5.5",
-        "type": "CALL",
-        "expiry": "2/06",
-        "price": ".15",
-        "raw_text": "HIGH CONFIDENCE SQUEEZE  $APT 5.5 Call 2/06 avg .15"
-    },
-    {
-        "timestamp": "2026-02-04 11:17:56",
-        "ticker": "BULL",
-        "strike": "7",
-        "type": "CALL",
-        "expiry": "2/6",
-        "price": "0.08",
-        "raw_text": "SHORT SQUEEZE   $BULL 7 Call 2/6 at 0.08"
-    },
-    {
-        "timestamp": "2026-02-04 11:17:57",
-        "ticker": "BULL",
-        "strike": "7",
-        "type": "CALL",
-        "expiry": "2/6",
-        "price": ".08",
-        "raw_text": "SHORT SQUEEZE   $BUll 7 CALL 2/6 @ .08"
-    },
-    {
-        "timestamp": "2026-02-04 11:17:57",
-        "ticker": "BULL",
-        "strike": "7",
-        "type": "CALL",
-        "expiry": "2/6",
-        "price": ".08",
-        "raw_text": "HIGH CONFIDENCE   $BUll 7 CALL 2/6 @ .08"
-    },
-    {
-        "timestamp": "2026-02-04 11:17:57",
-        "ticker": "APT",
-        "strike": "5.5",
-        "type": "CALL",
-        "expiry": "2/06",
-        "price": ".20",
-        "raw_text": "HIGH CONFIDENCE   $APT 5.5 Call 2/06 avg .20"
-    },
-    {
-        "timestamp": "2026-02-04 11:17:57",
-        "ticker": "BULL",
-        "strike": "7",
-        "type": "CALL",
-        "expiry": "2/6",
-        "price": "0.08",
-        "raw_text": "HIGH CONFIDENCE   $BULL 7 Call 2/6 at 0.08"
-    },
-    {
-        "timestamp": "2026-02-04 11:19:09",
-        "ticker": "BULL",
-        "strike": "7",
-        "type": "CALL",
-        "expiry": "2/6",
-        "price": "0.07",
-        "raw_text": "$BULL 7 Call 2/6 at 0.07 (full avg)"
-    },
-    {
-        "timestamp": "2026-02-04 11:19:09",
-        "ticker": "BULL",
-        "strike": "7",
-        "type": "CALL",
-        "expiry": "2/6",
-        "price": ".07",
-        "raw_text": "$BUll 7 CALL 2/6 @ .07"
-    },
-    {
-        "timestamp": "2026-02-04 11:20:01",
-        "ticker": "APT",
-        "strike": "5.5",
-        "type": "CALL",
-        "expiry": "2/06",
-        "price": ".20",
-        "raw_text": "FAST ALERT  $APT 5.5 Call 2/06 avg .20"
-    },
-    {
-        "timestamp": "2026-02-04 11:34:35",
-        "ticker": "EPSN",
+        "timestamp": "2026-02-05 09:40:13",
+        "ticker": "BGS",
         "strike": "5",
         "type": "CALL",
         "expiry": "2/20",
         "price": ".20",
-        "raw_text": "$EPSN $5 CALL 2/20 @ .20"
+        "raw_text": "SHORT SQUEEZE   $BGS 5 Call 2/20 avg .20"
     },
     {
-        "timestamp": "2026-02-04 11:34:59",
-        "ticker": "EPSN",
+        "timestamp": "2026-02-05 09:40:14",
+        "ticker": "BGS",
         "strike": "5",
         "type": "CALL",
         "expiry": "2/20",
         "price": ".20",
-        "raw_text": "FINAL TRADE IDEA A+  $EPSN $5 CALL 2/20 @ .20"
+        "raw_text": "SWING TRADE   $BGS 5 Call 2/20 avg .20"
     },
     {
-        "timestamp": "2026-02-04 11:46:08",
-        "ticker": "ABR",
-        "strike": "7.5",
-        "type": "PUT",
-        "expiry": "2/06",
-        "price": ".15",
-        "raw_text": "HIGH CONFIDENCE   $ABR 7.5 Put 2/06 avg .15"
-    },
-    {
-        "timestamp": "2026-02-04 11:47:15",
-        "ticker": "ABR",
-        "strike": "7.5",
-        "type": "PUT",
-        "expiry": "2/06",
-        "price": ".15",
-        "raw_text": "PUTS PLAY   $ABR 7.5 Put 2/06 avg .15"
-    },
-    {
-        "timestamp": "2026-02-04 11:47:16",
-        "ticker": "ABR",
-        "strike": "7.5",
-        "type": "PUT",
-        "expiry": "2/06",
-        "price": ".15",
-        "raw_text": "5X POTENTIAL   $ABR 7.5 Put 2/06 avg .15"
-    },
-    {
-        "timestamp": "2026-02-04 11:48:41",
-        "ticker": "EPD",
-        "strike": "35.5",
+        "timestamp": "2026-02-05 09:40:14",
+        "ticker": "SPX",
+        "strike": "6930",
         "type": "CALL",
-        "expiry": "2/6",
-        "price": "0.08",
-        "raw_text": "$EPD 35.5 Call 2/6 at 0.08"
+        "expiry": "2/5",
+        "price": "3.20",
+        "raw_text": "$SPX 2/5 6930C @ 3.20 BWP"
     },
     {
-        "timestamp": "2026-02-04 11:49:08",
-        "ticker": "EPD",
-        "strike": "35.5",
+        "timestamp": "2026-02-05 09:40:14",
+        "ticker": "BGS",
+        "strike": "5",
         "type": "CALL",
-        "expiry": "2/6",
-        "price": "0.08",
-        "raw_text": "Potential 2-3x setup   $EPD 35.5 Call 2/6 at 0.08"
-    },
-    {
-        "timestamp": "2026-02-04 11:49:42",
-        "ticker": "ABR",
-        "strike": "7.5",
-        "type": "PUT",
-        "expiry": "2/06",
+        "expiry": "2/20",
         "price": ".15",
-        "raw_text": "SHORTING    $ABR 7.5 Put 2/06 avg .15"
+        "raw_text": "10X POTENTIAL   $BGS 5 Call 2/20 avg .15"
     },
     {
-        "timestamp": "2026-02-04 11:50:38",
-        "ticker": "KVUE",
-        "strike": "18",
+        "timestamp": "2026-02-05 09:40:14",
+        "ticker": "BGS",
+        "strike": "5",
         "type": "CALL",
-        "expiry": "02/06",
-        "price": "0.17",
-        "raw_text": "$KVUE 18 CALL 02/06 @ 0.17   Let\u2019s get it!"
-    },
-    {
-        "timestamp": "2026-02-04 12:04:20",
-        "ticker": "QQQ",
-        "strike": "610",
-        "type": "CALL",
-        "expiry": "2/6",
-        "price": "4.53",
-        "raw_text": "$QQQ 2/6 610C @ 4.53 BWP"
+        "expiry": "2/20",
+        "price": ".15",
+        "raw_text": "HIGH CONFIDENCE   $BGS 5 Call 2/20 avg .15"
     }
 ]
