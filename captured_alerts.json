@@ -268,5 +268,14 @@
         "expiry": "2/06",
         "price": ".08",
         "raw_text": "OVERNIGHT SWING   $NLY 23.5 Call 2/06 avg .08"
+    },
+    {
+        "timestamp": "2026-02-05 11:36:02",
+        "ticker": "SAVA",
+        "strike": "2",
+        "type": "CALL",
+        "expiry": "2/06",
+        "price": ".09",
+        "raw_text": "HIGH CONFIDENCE   $SAVA 2 Call 2/06 avg .09"
     }
 ]
