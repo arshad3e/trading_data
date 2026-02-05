@@ -79,5 +79,23 @@
         "expiry": "2/20",
         "price": ".20",
         "raw_text": "6X POTENTIAL   $AMBP 5 Call 2/20 avg .20"
+    },
+    {
+        "timestamp": "2026-02-05 10:06:19",
+        "ticker": "WEN",
+        "strike": "8.5",
+        "type": "CALL",
+        "expiry": "2/13",
+        "price": "0.25",
+        "raw_text": "SHORT SQUEEZE   $WEN 8.5 Call 2/13 at 0.25"
+    },
+    {
+        "timestamp": "2026-02-05 10:06:19",
+        "ticker": "AMBP",
+        "strike": "5",
+        "type": "CALL",
+        "expiry": "2/20",
+        "price": ".20",
+        "raw_text": "SHORT SQUEEZEE   $AMBP 5 Call 2/20 avg .20"
     }
 ]
