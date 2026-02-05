@@ -43,5 +43,14 @@
         "expiry": "2/20",
         "price": ".15",
         "raw_text": "HIGH CONFIDENCE   $BGS 5 Call 2/20 avg .15"
+    },
+    {
+        "timestamp": "2026-02-05 09:41:49",
+        "ticker": "BGS",
+        "strike": "5",
+        "type": "CALL",
+        "expiry": "2/20",
+        "price": ".15",
+        "raw_text": "SHORT SQUEEZE   $BGS 5 Call 2/20 avg .15"
     }
 ]
