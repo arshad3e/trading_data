@@ -1282,5 +1282,17 @@
         "buy_commission": 0.0,
         "message": "Order cancelled/rejected. Reason: ",
         "timestamp": "2026-02-05 09:33:33"
+    },
+    {
+        "ticker": "MPT",
+        "strike": 5.5,
+        "type": "C",
+        "expiry": "20260213",
+        "alert_price": 0.0,
+        "status": "EXIT_FILLED",
+        "fill_price": 0.05,
+        "buy_commission": 0.0,
+        "message": "EXIT TRIGGERED: Sold 1.0 MPT   260213C00005500 @ $0.05",
+        "timestamp": "2026-02-05 09:37:15"
     }
 ]
