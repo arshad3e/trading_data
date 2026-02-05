@@ -169,5 +169,23 @@
         "expiry": "2/13",
         "price": ".50",
         "raw_text": "NEXT WEEK CONTRACTS   $PEP 175 Call 2/13 avg .50"
+    },
+    {
+        "timestamp": "2026-02-05 10:47:43",
+        "ticker": "PEP",
+        "strike": "175",
+        "type": "CALL",
+        "expiry": "2/13",
+        "price": ".50",
+        "raw_text": "10X POTENTIAL   $PEP 175 Call 2/13 avg .50"
+    },
+    {
+        "timestamp": "2026-02-05 10:48:05",
+        "ticker": "PEP",
+        "strike": "175",
+        "type": "CALL",
+        "expiry": "2/13",
+        "price": ".50",
+        "raw_text": "SQUEEZE SWING  $PEP 175 Call 2/13 avg .50"
     }
 ]
