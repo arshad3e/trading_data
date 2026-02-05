@@ -187,5 +187,23 @@
         "expiry": "2/13",
         "price": ".50",
         "raw_text": "SQUEEZE SWING  $PEP 175 Call 2/13 avg .50"
+    },
+    {
+        "timestamp": "2026-02-05 10:48:27",
+        "ticker": "RILY",
+        "strike": "8",
+        "type": "CALL",
+        "expiry": "2/6",
+        "price": ".13",
+        "raw_text": "SHORT SQUEEZE   $RILY 8 CALL 2/6 @ .13"
+    },
+    {
+        "timestamp": "2026-02-05 10:48:27",
+        "ticker": "RILY",
+        "strike": "8",
+        "type": "CALL",
+        "expiry": "2/6",
+        "price": ".13",
+        "raw_text": "$RILY 8 CALL 2/6 @ .13"
     }
 ]
