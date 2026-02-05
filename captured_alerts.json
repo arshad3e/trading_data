@@ -16,5 +16,14 @@
         "expiry": "2/13",
         "price": ".25",
         "raw_text": "$WEN 8.5 CALL 2/13 @ .25"
+    },
+    {
+        "timestamp": "2026-02-05 10:00:17",
+        "ticker": "WEN",
+        "strike": "8.5",
+        "type": "CALL",
+        "expiry": "2/13",
+        "price": ".25",
+        "raw_text": "HIGH CONFIDENCE   $WEN 8.5 CALL 2/13 @ .25"
     }
 ]
