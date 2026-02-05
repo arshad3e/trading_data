@@ -1258,5 +1258,29 @@
         "buy_commission": 0.0,
         "message": "Insufficient funds (Buying Power: $60.79)",
         "timestamp": "2026-02-05 09:33:02"
+    },
+    {
+        "ticker": "MPT",
+        "strike": 5.5,
+        "type": "C",
+        "expiry": "20260213",
+        "alert_price": 0.08,
+        "status": "ENTRY_FILLED",
+        "fill_price": 0.07,
+        "buy_commission": 1.04875,
+        "message": "Filled @ 0.07. OCA Bracket (OCA_5706_MPT) Placed: TP $0.1 / SL $0.06",
+        "timestamp": "2026-02-05 09:33:17"
+    },
+    {
+        "ticker": "TSLA",
+        "strike": 430.0,
+        "type": "C",
+        "expiry": "20260204",
+        "alert_price": 0.33,
+        "status": "CANCELLED",
+        "fill_price": 0.0,
+        "buy_commission": 0.0,
+        "message": "Order cancelled/rejected. Reason: ",
+        "timestamp": "2026-02-05 09:33:33"
     }
 ]
