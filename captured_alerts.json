@@ -70,5 +70,14 @@
         "expiry": "2/20",
         "price": ".20",
         "raw_text": "SHORT SQUEEZE   $AMBP 5 Call 2/20 avg .20"
+    },
+    {
+        "timestamp": "2026-02-05 10:05:03",
+        "ticker": "AMBP",
+        "strike": "5",
+        "type": "CALL",
+        "expiry": "2/20",
+        "price": ".20",
+        "raw_text": "6X POTENTIAL   $AMBP 5 Call 2/20 avg .20"
     }
 ]
