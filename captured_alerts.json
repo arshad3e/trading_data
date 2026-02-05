@@ -295,5 +295,14 @@
         "expiry": "02/06",
         "price": "0.18",
         "raw_text": "$KMI 30.5 CALL 02/06 @ 0.18  Lets get it!"
+    },
+    {
+        "timestamp": "2026-02-05 12:44:55",
+        "ticker": "KMI",
+        "strike": "30.5",
+        "type": "CALL",
+        "expiry": "02/06",
+        "price": "0.15",
+        "raw_text": "$KMI 30.5 CALL 02/06 @ 0.15  Correct price here.  I want to see 30.55"
     }
 ]
